@@ -21,10 +21,22 @@ yelp_api = YelpAPI(config.get('yelp', 'consumer_key'),
 # https://www.yelp.com/developers/documentation/v2/search_api
 all_businesses = []
 num_results_so_far = 0
+# bounds=sw_latitude,sw_longitude|ne_latitude,ne_longitude
+# bounds = '37.70,-122.5|37.76,-122.35' # lower half of SF
+# bounds = '37.76,-122.5|37.82,-122.35' # upper half of SF
+bounds = '37.70,-122.55|37.82,-122.35' # all SF, rough handmade query.
 while True:
-    results = yelp_api.search_query(category_filter='coffee',
-        location='San Francisco, CA', offset=num_results_so_far)
-    print results['total']
+    try:
+        # results = yelp_api.search_query(category_filter='coffee',
+        #     location='San Francisco, CA', offset=num_results_so_far)
+        results = yelp_api.search_query(category_filter='coffee',
+            bounds=bounds, offset=num_results_so_far)
+    except Exception as e:
+        print "Error sending request, writing file and quitting."
+        print e
+        break
+
+    print "This many so far: %d, this many total: %d" % (num_results_so_far, results['total'])
     for business in results['businesses']:
         if business['is_closed']:
             print "Not including, permanently closed: %s" % business['name']
@@ -43,7 +55,7 @@ while True:
     if num_results_so_far >= results['total'] or\
             (args.limit and num_results_so_far >= args.limit):
         break
-    time.sleep(3)
+    time.sleep(2)
 
 json.dump(all_businesses, open(args.output_file, 'w'), indent=2)
 
