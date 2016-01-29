@@ -1,0 +1,4017 @@
+[
+  {
+    "latitude": 37.7624810100683, 
+    "name": "Provender", 
+    "longitude": -122.396886236966
+  }, 
+  {
+    "latitude": 37.754467010498, 
+    "name": "Home", 
+    "longitude": -122.476989746094
+  }, 
+  {
+    "latitude": 37.7470855, 
+    "name": "CoffeeShop", 
+    "longitude": -122.4187899
+  }, 
+  {
+    "latitude": 37.756805, 
+    "name": "Andytown Coffee Roasters", 
+    "longitude": -122.502283
+  }, 
+  {
+    "latitude": 37.7622004598379, 
+    "name": "Golden Bear Trading Company", 
+    "longitude": -122.463017776608
+  }, 
+  {
+    "latitude": 37.7879217, 
+    "name": "b. Patisserie", 
+    "longitude": -122.4409499
+  }, 
+  {
+    "latitude": 37.7670169511878, 
+    "name": "Four Barrel Coffee", 
+    "longitude": -122.42184275
+  }, 
+  {
+    "latitude": 37.751149640212, 
+    "name": "Philz Coffee", 
+    "longitude": -122.43838046048
+  }, 
+  {
+    "latitude": 37.7630641311407, 
+    "name": "Snowbird Coffee", 
+    "longitude": -122.466189488769
+  }, 
+  {
+    "latitude": 37.7635803, 
+    "name": "Hollow", 
+    "longitude": -122.4734344
+  }, 
+  {
+    "latitude": 37.7696991, 
+    "name": "Flywheel Coffee Roasters", 
+    "longitude": -122.4533234
+  }, 
+  {
+    "latitude": 37.7610599441666, 
+    "name": "R\u00e9veille Coffee Co.", 
+    "longitude": -122.434422304778
+  }, 
+  {
+    "latitude": 37.7814293, 
+    "name": "Fifty / Fifty Coffee and Tea", 
+    "longitude": -122.4529495
+  }, 
+  {
+    "latitude": 37.77638, 
+    "name": "Blue Bottle Coffee", 
+    "longitude": -122.423211
+  }, 
+  {
+    "latitude": 37.7773209, 
+    "name": "Artis Coffee", 
+    "longitude": -122.4249268
+  }, 
+  {
+    "latitude": 37.751604302734, 
+    "name": "Bernie's", 
+    "longitude": -122.43115716868
+  }, 
+  {
+    "latitude": 37.782352, 
+    "name": "Blue Bottle Coffee Co", 
+    "longitude": -122.407697
+  }, 
+  {
+    "latitude": 37.7769585, 
+    "name": "Sightglass Coffee", 
+    "longitude": -122.4085083
+  }, 
+  {
+    "latitude": 37.7564163208008, 
+    "name": "Ritual Coffee Roasters", 
+    "longitude": -122.421371459961
+  }, 
+  {
+    "latitude": 37.7753311381057, 
+    "name": "Velo Rouge Cafe", 
+    "longitude": -122.458363873016
+  }, 
+  {
+    "latitude": 37.7601254, 
+    "name": "Philz Coffee", 
+    "longitude": -122.4348964
+  }, 
+  {
+    "latitude": 37.7996597290039, 
+    "name": "Bereka Coffee", 
+    "longitude": -122.439849853516
+  }, 
+  {
+    "latitude": 37.782383, 
+    "name": "Philz Coffee", 
+    "longitude": -122.420526
+  }, 
+  {
+    "latitude": 37.7764739990234, 
+    "name": "The Mill", 
+    "longitude": -122.437713623047
+  }, 
+  {
+    "latitude": 37.7742194384336, 
+    "name": "Central Coffee Tea & Spice", 
+    "longitude": -122.444210797548
+  }, 
+  {
+    "latitude": 37.7639961242676, 
+    "name": "Cafe La Flore", 
+    "longitude": -122.472434997559
+  }, 
+  {
+    "latitude": 37.7429504, 
+    "name": "Mellow's Cafe", 
+    "longitude": -122.4812698
+  }, 
+  {
+    "latitude": 37.733797103285, 
+    "name": "Bello Coffee & Tea", 
+    "longitude": -122.43399331088
+  }, 
+  {
+    "latitude": 37.7788831, 
+    "name": "Zo11 Coffee", 
+    "longitude": -122.4319671
+  }, 
+  {
+    "latitude": 37.752397102831, 
+    "name": "Philz Coffee", 
+    "longitude": -122.41426366546
+  }, 
+  {
+    "latitude": 37.7374952, 
+    "name": "Greenhouse Cafe", 
+    "longitude": -122.4694073
+  }, 
+  {
+    "latitude": 37.76491753757, 
+    "name": "Stanza Coffee", 
+    "longitude": -122.422487586737
+  }, 
+  {
+    "latitude": 37.7750101, 
+    "name": "Bean Bag Cafe", 
+    "longitude": -122.4378421
+  }, 
+  {
+    "latitude": 37.78934, 
+    "name": "Jane on Fillmore", 
+    "longitude": -122.43423
+  }, 
+  {
+    "latitude": 37.7762909215631, 
+    "name": "Ma'velous", 
+    "longitude": -122.418206110597
+  }, 
+  {
+    "latitude": 37.7855552, 
+    "name": "Cafe Murano", 
+    "longitude": -122.4350047
+  }, 
+  {
+    "latitude": 37.7427788, 
+    "name": "Antigua Coffee Shop", 
+    "longitude": -122.478508
+  }, 
+  {
+    "latitude": 37.766169, 
+    "name": "Cafe Reverie", 
+    "longitude": -122.449763
+  }, 
+  {
+    "latitude": 37.7343559265137, 
+    "name": "Higher Grounds Coffee House", 
+    "longitude": -122.433723449707
+  }, 
+  {
+    "latitude": 37.741612083577, 
+    "name": "Cafe St. Jorge", 
+    "longitude": -122.422536600206
+  }, 
+  {
+    "latitude": 37.7968548431401, 
+    "name": "Wrecking Ball Coffee Roasters", 
+    "longitude": -122.436591312289
+  }, 
+  {
+    "latitude": 37.7650909, 
+    "name": "Wooly Pig Cafe", 
+    "longitude": -122.4601669
+  }, 
+  {
+    "latitude": 37.7827709595657, 
+    "name": "Cafe La Flore", 
+    "longitude": -122.470544639881
+  }, 
+  {
+    "latitude": 37.777294112938, 
+    "name": "Matching Half Caf\u00e9", 
+    "longitude": -122.44146193004
+  }, 
+  {
+    "latitude": 37.775463, 
+    "name": "La Promenade Caf\u00e9", 
+    "longitude": -122.498152
+  }, 
+  {
+    "latitude": 37.7543907, 
+    "name": "Grand Coffee", 
+    "longitude": -122.418457
+  }, 
+  {
+    "latitude": 37.78496, 
+    "name": "The Richfield", 
+    "longitude": -122.46377
+  }, 
+  {
+    "latitude": 37.781425, 
+    "name": "Little Sweet", 
+    "longitude": -122.4608022
+  }, 
+  {
+    "latitude": 37.7631622208, 
+    "name": "Coffee Bar", 
+    "longitude": -122.411044473128
+  }, 
+  {
+    "latitude": 37.7591688930988, 
+    "name": "Sightglass Coffee", 
+    "longitude": -122.411060035229
+  }, 
+  {
+    "latitude": 37.763634, 
+    "name": "Weaver's Coffee & Tea", 
+    "longitude": -122.433311
+  }, 
+  {
+    "latitude": 37.739674, 
+    "name": "Pinhole Coffee", 
+    "longitude": -122.418945
+  }, 
+  {
+    "latitude": 37.7672036024795, 
+    "name": "Papa November", 
+    "longitude": -122.403616905212
+  }, 
+  {
+    "latitude": 37.732450067997, 
+    "name": "Cup Coffee Bar", 
+    "longitude": -122.434748634696
+  }, 
+  {
+    "latitude": 37.7625051300347, 
+    "name": "Hearth Coffee Roasters", 
+    "longitude": -122.434392571449
+  }, 
+  {
+    "latitude": 37.77025, 
+    "name": "Blue Front Cafe", 
+    "longitude": -122.44607
+  }, 
+  {
+    "latitude": 37.7555693686008, 
+    "name": "Neighbor's Corner Market", 
+    "longitude": -122.43879340589
+  }, 
+  {
+    "latitude": 37.7127476649235, 
+    "name": "Piccolo Petes Cafe", 
+    "longitude": -122.400689887401
+  }, 
+  {
+    "latitude": 37.791405, 
+    "name": "Contraband Coffee Bar", 
+    "longitude": -122.419327
+  }, 
+  {
+    "latitude": 37.77135, 
+    "name": "Le Cafe du Soleil", 
+    "longitude": -122.430086
+  }, 
+  {
+    "latitude": 37.75916, 
+    "name": "Spike's Coffees & Teas", 
+    "longitude": -122.43503
+  }, 
+  {
+    "latitude": 37.7554272115231, 
+    "name": "The Revolution Cafe", 
+    "longitude": -122.419682666659
+  }, 
+  {
+    "latitude": 37.769371, 
+    "name": "Stanza Coffee & Wine Bar", 
+    "longitude": -122.4500504
+  }, 
+  {
+    "latitude": 37.7540223, 
+    "name": "Twisted Donuts and Coffee", 
+    "longitude": -122.4772129
+  }, 
+  {
+    "latitude": 37.775558280936, 
+    "name": "Philz Coffee", 
+    "longitude": -122.39338696954
+  }, 
+  {
+    "latitude": 37.7459831, 
+    "name": "Tierra Mia Coffee", 
+    "longitude": -122.4198074
+  }, 
+  {
+    "latitude": 37.7638261367704, 
+    "name": "Beanery", 
+    "longitude": -122.466385270526
+  }, 
+  {
+    "latitude": 37.7755492, 
+    "name": "Mojo Bicycle Caf\u00e9", 
+    "longitude": -122.4381242
+  }, 
+  {
+    "latitude": 37.7901517599821, 
+    "name": "Beanstalk Cafe", 
+    "longitude": -122.409288436174
+  }, 
+  {
+    "latitude": 37.7361456828819, 
+    "name": "Cafeto Coffee Shop", 
+    "longitude": -122.424239996237
+  }, 
+  {
+    "latitude": 37.7289353, 
+    "name": "Four Barrel Coffee", 
+    "longitude": -122.4036865
+  }, 
+  {
+    "latitude": 37.772893756628, 
+    "name": "Oakside Cafe", 
+    "longitude": -122.438865154982
+  }, 
+  {
+    "latitude": 37.759032, 
+    "name": "Borderlands Caf\u00e9", 
+    "longitude": -122.4215105
+  }, 
+  {
+    "latitude": 37.7665067464113, 
+    "name": "Church Street Cafe", 
+    "longitude": -122.428899407387
+  }, 
+  {
+    "latitude": 37.8000725805759, 
+    "name": "Chestnut Street Coffee Roastery", 
+    "longitude": -122.441752552986
+  }, 
+  {
+    "latitude": 37.7429, 
+    "name": "Rolling Out", 
+    "longitude": -122.48468
+  }, 
+  {
+    "latitude": 37.7545702457428, 
+    "name": "Philz Coffee", 
+    "longitude": -122.389973849058
+  }, 
+  {
+    "latitude": 37.7605782, 
+    "name": "Five Star Truffles Co.", 
+    "longitude": -122.4369278
+  }, 
+  {
+    "latitude": 37.7542915344238, 
+    "name": "House of Coffee", 
+    "longitude": -122.481224060059
+  }, 
+  {
+    "latitude": 37.7726446261622, 
+    "name": "Sextant Coffee Roasters", 
+    "longitude": -122.412992231548
+  }, 
+  {
+    "latitude": 37.7715187, 
+    "name": "Repose Coffee Bar", 
+    "longitude": -122.4368973
+  }, 
+  {
+    "latitude": 37.7617754313073, 
+    "name": "Blue Bottle Coffee", 
+    "longitude": -122.411786913872
+  }, 
+  {
+    "latitude": 37.7802696228027, 
+    "name": "Elite Audio Coffee Bar", 
+    "longitude": -122.402862548828
+  }, 
+  {
+    "latitude": 37.707859, 
+    "name": "Mission Edge Cafe", 
+    "longitude": -122.454673
+  }, 
+  {
+    "latitude": 37.7740082144737, 
+    "name": "Mercury Cafe", 
+    "longitude": -122.424194812775
+  }, 
+  {
+    "latitude": 37.7721253037453, 
+    "name": "Cafe International", 
+    "longitude": -122.430735379457
+  }, 
+  {
+    "latitude": 37.7852285, 
+    "name": "Hooker's Sweet Treats", 
+    "longitude": -122.4160527
+  }, 
+  {
+    "latitude": 37.728461, 
+    "name": "Trouble Coffee Company", 
+    "longitude": -122.39398
+  }, 
+  {
+    "latitude": 37.7898513525724, 
+    "name": "Fresh Brew Coffee", 
+    "longitude": -122.411695048213
+  }, 
+  {
+    "latitude": 37.764608, 
+    "name": "Front Cafe", 
+    "longitude": -122.394973
+  }, 
+  {
+    "latitude": 37.7231582254171, 
+    "name": "Pineapples", 
+    "longitude": -122.443045377731
+  }, 
+  {
+    "latitude": 37.7603286954313, 
+    "name": "Trouble Coffee Company", 
+    "longitude": -122.505439026515
+  }, 
+  {
+    "latitude": 37.778745250608, 
+    "name": "Cento", 
+    "longitude": -122.39396334359
+  }, 
+  {
+    "latitude": 37.77108, 
+    "name": "Bean There", 
+    "longitude": -122.43223
+  }, 
+  {
+    "latitude": 37.7440758, 
+    "name": "Cafe Seventy8", 
+    "longitude": -122.4223022
+  }, 
+  {
+    "latitude": 37.7542538394443, 
+    "name": "Luna's Coffee House", 
+    "longitude": -122.406396576686
+  }, 
+  {
+    "latitude": 37.7767396, 
+    "name": "Blue Bottle Coffee", 
+    "longitude": -122.4163715
+  }, 
+  {
+    "latitude": 37.7648189663887, 
+    "name": "Philz Coffee", 
+    "longitude": -122.401243820786
+  }, 
+  {
+    "latitude": 37.786657, 
+    "name": "Jane on Larkin", 
+    "longitude": -122.418448
+  }, 
+  {
+    "latitude": 37.7823715, 
+    "name": "Sunstream Coffee", 
+    "longitude": -122.4498596
+  }, 
+  {
+    "latitude": 37.7819039, 
+    "name": "ilana's Coffee", 
+    "longitude": -122.4842476
+  }, 
+  {
+    "latitude": 37.7798538, 
+    "name": "Cafe Enchante", 
+    "longitude": -122.4854507
+  }, 
+  {
+    "latitude": 37.7813806997337, 
+    "name": "Philz Coffee", 
+    "longitude": -122.417041361332
+  }, 
+  {
+    "latitude": 37.752971, 
+    "name": "Dynamo Donut + Coffee", 
+    "longitude": -122.407676
+  }, 
+  {
+    "latitude": 37.7684326171875, 
+    "name": "Cole Valley Cafe", 
+    "longitude": -122.450759887695
+  }, 
+  {
+    "latitude": 37.7745635, 
+    "name": "Vega At Langton", 
+    "longitude": -122.410969
+  }, 
+  {
+    "latitude": 37.77646571106, 
+    "name": "Ritual Coffee Roasters", 
+    "longitude": -122.42434780212
+  }, 
+  {
+    "latitude": 37.7640724182129, 
+    "name": "Martha & Brothers Coffee", 
+    "longitude": -122.462303161621
+  }, 
+  {
+    "latitude": 37.7859306, 
+    "name": "YakiniQ Cafe", 
+    "longitude": -122.4288635
+  }, 
+  {
+    "latitude": 37.76173, 
+    "name": "Eureka! Cafe", 
+    "longitude": -122.434792
+  }, 
+  {
+    "latitude": 37.7396354675293, 
+    "name": "Ritual Coffee Roasters", 
+    "longitude": -122.39005279541
+  }, 
+  {
+    "latitude": 37.752799, 
+    "name": "Temo Cafe", 
+    "longitude": -122.4122
+  }, 
+  {
+    "latitude": 37.7696739, 
+    "name": "Cantata Coffee Company", 
+    "longitude": -122.4504544
+  }, 
+  {
+    "latitude": 37.7669286, 
+    "name": "Lava Java", 
+    "longitude": -122.4528939
+  }, 
+  {
+    "latitude": 37.7769264578819, 
+    "name": "Cafe La Vie", 
+    "longitude": -122.424646764994
+  }, 
+  {
+    "latitude": 37.7610275, 
+    "name": "Caf\u00e9 UB", 
+    "longitude": -122.4307303
+  }, 
+  {
+    "latitude": 37.800704, 
+    "name": "Hole In The Wall Coffee", 
+    "longitude": -122.4081685
+  }, 
+  {
+    "latitude": 37.73905, 
+    "name": "Progressive Grounds", 
+    "longitude": -122.41765
+  }, 
+  {
+    "latitude": 37.7390441894531, 
+    "name": "Martha & Brothers Coffee", 
+    "longitude": -122.414764404297
+  }, 
+  {
+    "latitude": 37.7749929150767, 
+    "name": "20th Century Cafe", 
+    "longitude": -122.422565370798
+  }, 
+  {
+    "latitude": 37.78742, 
+    "name": "Fra\u00eeche", 
+    "longitude": -122.43327
+  }, 
+  {
+    "latitude": 37.78382, 
+    "name": "Bazaar Cafe", 
+    "longitude": -122.48119
+  }, 
+  {
+    "latitude": 37.7876476643898, 
+    "name": "farm:table", 
+    "longitude": -122.414076908221
+  }, 
+  {
+    "latitude": 37.8063769233136, 
+    "name": "Philz Coffee", 
+    "longitude": -122.435388341546
+  }, 
+  {
+    "latitude": 37.805744, 
+    "name": "Black Point Cafe", 
+    "longitude": -122.421814
+  }, 
+  {
+    "latitude": 37.7821067602103, 
+    "name": "Ro Cafe", 
+    "longitude": -122.448417507112
+  }, 
+  {
+    "latitude": 37.80133, 
+    "name": "Graffeo Coffee Roasting Company", 
+    "longitude": -122.41201
+  }, 
+  {
+    "latitude": 37.7485111355782, 
+    "name": "Spin City Launderette & Coffee Bar", 
+    "longitude": -122.429268881679
+  }, 
+  {
+    "latitude": 37.734663918065, 
+    "name": "Destination Baking Company", 
+    "longitude": -122.43228173013
+  }, 
+  {
+    "latitude": 37.7649895196887, 
+    "name": "Sundays", 
+    "longitude": -122.466315474708
+  }, 
+  {
+    "latitude": 37.7484899, 
+    "name": "Luv a Java", 
+    "longitude": -122.42517
+  }, 
+  {
+    "latitude": 37.76045, 
+    "name": "Java Beach Cafe", 
+    "longitude": -122.50893
+  }, 
+  {
+    "latitude": 37.7617149362161, 
+    "name": "Linea Caffe", 
+    "longitude": -122.420043302669
+  }, 
+  {
+    "latitude": 37.757622, 
+    "name": "Piccino", 
+    "longitude": -122.389915
+  }, 
+  {
+    "latitude": 37.7882923185825, 
+    "name": "Iron Horse Coffee Bar", 
+    "longitude": -122.404029965401
+  }, 
+  {
+    "latitude": 37.7626224, 
+    "name": "H Cafe", 
+    "longitude": -122.4307573
+  }, 
+  {
+    "latitude": 37.7804, 
+    "name": "Lou's Cafe", 
+    "longitude": -122.47313
+  }, 
+  {
+    "latitude": 37.77998, 
+    "name": "The Art Bistro", 
+    "longitude": -122.49368
+  }, 
+  {
+    "latitude": 37.796147602803, 
+    "name": "Blue Bottle Coffee", 
+    "longitude": -122.393915990428
+  }, 
+  {
+    "latitude": 37.784423, 
+    "name": "Un Cafecito", 
+    "longitude": -122.412963
+  }, 
+  {
+    "latitude": 37.7445499, 
+    "name": "Starbucks", 
+    "longitude": -122.45256
+  }, 
+  {
+    "latitude": 37.7662921322343, 
+    "name": "Samovar Tea", 
+    "longitude": -122.421636320651
+  }, 
+  {
+    "latitude": 37.77225, 
+    "name": "Capricorn Coffees & Teas", 
+    "longitude": -122.41185
+  }, 
+  {
+    "latitude": 37.7830442934418, 
+    "name": "Mr & Mrs Tea House", 
+    "longitude": -122.465241822931
+  }, 
+  {
+    "latitude": 37.7518, 
+    "name": "Martha & Brothers Coffee", 
+    "longitude": -122.42896
+  }, 
+  {
+    "latitude": 37.7574768066406, 
+    "name": "Progressive Grounds Cafe", 
+    "longitude": -122.409301757812
+  }, 
+  {
+    "latitude": 37.7616598, 
+    "name": "Faye's Video & Espresso Bar", 
+    "longitude": -122.4242662
+  }, 
+  {
+    "latitude": 37.7876434326172, 
+    "name": "Joy's Place", 
+    "longitude": -122.411979675293
+  }, 
+  {
+    "latitude": 37.7519997, 
+    "name": "Coffee Mission", 
+    "longitude": -122.4191063
+  }, 
+  {
+    "latitude": 37.757557095276, 
+    "name": "La Stazione Coffee & Wine Bar", 
+    "longitude": -122.39292568307
+  }, 
+  {
+    "latitude": 37.7622414, 
+    "name": "Kafe 99 Sqft", 
+    "longitude": -122.4141769
+  }, 
+  {
+    "latitude": 37.7816505, 
+    "name": "Epicenter Cafe", 
+    "longitude": -122.3991089
+  }, 
+  {
+    "latitude": 37.745998, 
+    "name": "Martha & Bros Coffee Company", 
+    "longitude": -122.426645
+  }, 
+  {
+    "latitude": 37.7831306, 
+    "name": "Crossroads Cafe", 
+    "longitude": -122.3890381
+  }, 
+  {
+    "latitude": 37.7769869784167, 
+    "name": "Arlequin Cafe & Food To Go", 
+    "longitude": -122.42269070185
+  }, 
+  {
+    "latitude": 37.7700381, 
+    "name": "Coffee to the People", 
+    "longitude": -122.4451237
+  }, 
+  {
+    "latitude": 37.78624, 
+    "name": "Starbucks", 
+    "longitude": -122.45318
+  }, 
+  {
+    "latitude": 37.7454929, 
+    "name": "New Alternatives Cafe", 
+    "longitude": -122.422418
+  }, 
+  {
+    "latitude": 37.7287903, 
+    "name": "Tasty Coffee", 
+    "longitude": -122.4405289
+  }, 
+  {
+    "latitude": 37.7760594, 
+    "name": "Alamo Square Cafe", 
+    "longitude": -122.4313766
+  }, 
+  {
+    "latitude": 37.7713203430176, 
+    "name": "The Grind", 
+    "longitude": -122.435104370117
+  }, 
+  {
+    "latitude": 37.752645078614, 
+    "name": "Haus Coffee", 
+    "longitude": -122.41373013352
+  }, 
+  {
+    "latitude": 37.7900581, 
+    "name": "Another Cafe", 
+    "longitude": -122.415329
+  }, 
+  {
+    "latitude": 37.78181, 
+    "name": "Fillmore Street Cafe", 
+    "longitude": -122.43325
+  }, 
+  {
+    "latitude": 37.76476, 
+    "name": "La Boulangerie de San Francisco", 
+    "longitude": -122.44945
+  }, 
+  {
+    "latitude": 37.77603, 
+    "name": "Simple Pleasures Cafe", 
+    "longitude": -122.49581
+  }, 
+  {
+    "latitude": 37.7913156019325, 
+    "name": "Blue Bottle Coffee", 
+    "longitude": -122.401013486507
+  }, 
+  {
+    "latitude": 37.7817, 
+    "name": "Earth's Coffee", 
+    "longitude": -122.45587
+  }, 
+  {
+    "latitude": 37.8083683600075, 
+    "name": "The Warming Hut", 
+    "longitude": -122.471343688079
+  }, 
+  {
+    "latitude": 37.7356682, 
+    "name": "Java Beach", 
+    "longitude": -122.5029221
+  }, 
+  {
+    "latitude": 37.8022545576096, 
+    "name": "Beacon Coffee & Pantry", 
+    "longitude": -122.41307772696
+  }, 
+  {
+    "latitude": 37.7808001, 
+    "name": "Cafe Coco", 
+    "longitude": -122.4644324
+  }, 
+  {
+    "latitude": 37.7756697, 
+    "name": "Cube Tea", 
+    "longitude": -122.4258294
+  }, 
+  {
+    "latitude": 37.8004485943451, 
+    "name": "La PanotiQ", 
+    "longitude": -122.440059581909
+  }, 
+  {
+    "latitude": 37.7907295, 
+    "name": "Workshop Cafe", 
+    "longitude": -122.4021835
+  }, 
+  {
+    "latitude": 37.7703223876507, 
+    "name": "Chatz Coffee Shop", 
+    "longitude": -122.44312461377
+  }, 
+  {
+    "latitude": 37.7692179, 
+    "name": "Duboce Park Cafe", 
+    "longitude": -122.4315675
+  }, 
+  {
+    "latitude": 37.7946683906423, 
+    "name": "Paramo Coffee Company", 
+    "longitude": -122.395721196916
+  }, 
+  {
+    "latitude": 37.7598267048597, 
+    "name": "Java Supreme", 
+    "longitude": -122.423555105925
+  }, 
+  {
+    "latitude": 37.7571277320385, 
+    "name": "The Blue Fig", 
+    "longitude": -122.421176657081
+  }, 
+  {
+    "latitude": 37.7986743628258, 
+    "name": "Caffe Trieste", 
+    "longitude": -122.407309779751
+  }, 
+  {
+    "latitude": 37.785141, 
+    "name": "Ashley's Cafe", 
+    "longitude": -122.4654694
+  }, 
+  {
+    "latitude": 37.7632698, 
+    "name": "Espressamente Illy", 
+    "longitude": -122.434028
+  }, 
+  {
+    "latitude": 37.7916251773006, 
+    "name": "Philz Coffee", 
+    "longitude": -122.399155721068
+  }, 
+  {
+    "latitude": 37.778553003745, 
+    "name": "Womply Cafe", 
+    "longitude": -122.39180229273
+  }, 
+  {
+    "latitude": 37.7991454044426, 
+    "name": "Starbucks", 
+    "longitude": -122.44901061058
+  }, 
+  {
+    "latitude": 37.7972059782064, 
+    "name": "R\u00e9veille Coffee Co.", 
+    "longitude": -122.405463418284
+  }, 
+  {
+    "latitude": 37.7816338068441, 
+    "name": "Caffe Centro", 
+    "longitude": -122.394201525131
+  }, 
+  {
+    "latitude": 37.7805581688881, 
+    "name": "Sharetea", 
+    "longitude": -122.476615235209
+  }, 
+  {
+    "latitude": 37.7815361, 
+    "name": "Picnic on Third", 
+    "longitude": -122.3959045
+  }, 
+  {
+    "latitude": 37.7429212, 
+    "name": "Super Cue Cafe", 
+    "longitude": -122.4782898
+  }, 
+  {
+    "latitude": 37.7422408014536, 
+    "name": "Cafe XO", 
+    "longitude": -122.426440492272
+  }, 
+  {
+    "latitude": 37.78727, 
+    "name": "Macha Cafe", 
+    "longitude": -122.42287
+  }, 
+  {
+    "latitude": 37.8056487, 
+    "name": "DeLise Cafe", 
+    "longitude": -122.4126805
+  }, 
+  {
+    "latitude": 37.805849, 
+    "name": "Dynamo Donut + Coffee", 
+    "longitude": -122.447447
+  }, 
+  {
+    "latitude": 37.7656017, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.4499419
+  }, 
+  {
+    "latitude": 37.7826422914878, 
+    "name": "Equator Coffees & Teas", 
+    "longitude": -122.409869469702
+  }, 
+  {
+    "latitude": 37.788685, 
+    "name": "Capital One 360 Caf\u00e9", 
+    "longitude": -122.403877
+  }, 
+  {
+    "latitude": 37.798918, 
+    "name": "Caffe Greco", 
+    "longitude": -122.4084483
+  }, 
+  {
+    "latitude": 37.7713164, 
+    "name": "L'acajou Bakery & Cafe", 
+    "longitude": -122.4087526
+  }, 
+  {
+    "latitude": 37.7854478359222, 
+    "name": "Daniel's Cafe", 
+    "longitude": -122.408878728747
+  }, 
+  {
+    "latitude": 37.7874342573031, 
+    "name": "Mazarine Coffee", 
+    "longitude": -122.403999956858
+  }, 
+  {
+    "latitude": 37.768692, 
+    "name": "Cafe Zazo", 
+    "longitude": -122.4148376
+  }, 
+  {
+    "latitude": 37.7625322, 
+    "name": "Farley's", 
+    "longitude": -122.3959853
+  }, 
+  {
+    "latitude": 37.7815648, 
+    "name": "George And Lennie", 
+    "longitude": -122.4150428
+  }, 
+  {
+    "latitude": 37.7849731445312, 
+    "name": "Tan Tan Coffee Shop", 
+    "longitude": -122.431854248047
+  }, 
+  {
+    "latitude": 37.7971788, 
+    "name": "Brioche Bakery & Cafe", 
+    "longitude": -122.4056858
+  }, 
+  {
+    "latitude": 37.7760582, 
+    "name": "Moya", 
+    "longitude": -122.4140701
+  }, 
+  {
+    "latitude": 37.787385, 
+    "name": "Red Door Coffee", 
+    "longitude": -122.399547
+  }, 
+  {
+    "latitude": 37.7880967519643, 
+    "name": "Red Door Coffee", 
+    "longitude": -122.396264970303
+  }, 
+  {
+    "latitude": 37.7698, 
+    "name": "Teahouse", 
+    "longitude": -122.47
+  }, 
+  {
+    "latitude": 37.7829406410456, 
+    "name": "Toy Boat Dessert Caf\u00e9", 
+    "longitude": -122.463481798768
+  }, 
+  {
+    "latitude": 37.7603584527969, 
+    "name": "Beachside Coffee Bar & Kitchen", 
+    "longitude": -122.508276030421
+  }, 
+  {
+    "latitude": 37.760272, 
+    "name": "Jolt 'n Bolt", 
+    "longitude": -122.3880977
+  }, 
+  {
+    "latitude": 37.752118894686, 
+    "name": "Jump Start Coffee & Grocery", 
+    "longitude": -122.42306935858
+  }, 
+  {
+    "latitude": 37.7865549, 
+    "name": "Socola Chocolatier + Barista", 
+    "longitude": -122.395089
+  }, 
+  {
+    "latitude": 37.7863883972168, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.450408935547
+  }, 
+  {
+    "latitude": 37.797125033325, 
+    "name": "Jackson Place Cafe", 
+    "longitude": -122.401331702377
+  }, 
+  {
+    "latitude": 37.8071401834214, 
+    "name": "Cafe Franco", 
+    "longitude": -122.428887205134
+  }, 
+  {
+    "latitude": 37.7898750430312, 
+    "name": "Boba Guys", 
+    "longitude": -122.407143359783
+  }, 
+  {
+    "latitude": 37.73968, 
+    "name": "Starbucks", 
+    "longitude": -122.46747
+  }, 
+  {
+    "latitude": 37.7529983520508, 
+    "name": "Sugarlump", 
+    "longitude": -122.409599304199
+  }, 
+  {
+    "latitude": 37.7765315026045, 
+    "name": "Coffee Mine", 
+    "longitude": -122.415016964078
+  }, 
+  {
+    "latitude": 37.7849731445313, 
+    "name": "Cafe V", 
+    "longitude": -122.431831359863
+  }, 
+  {
+    "latitude": 37.7631386474917, 
+    "name": "Dignita", 
+    "longitude": -122.387567830244
+  }, 
+  {
+    "latitude": 37.79918, 
+    "name": "Stella Pastry & Cafe", 
+    "longitude": -122.40828
+  }, 
+  {
+    "latitude": 37.7943011253153, 
+    "name": "Philz Coffee", 
+    "longitude": -122.395729869604
+  }, 
+  {
+    "latitude": 37.7847162634134, 
+    "name": "Village Market", 
+    "longitude": -122.466348409653
+  }, 
+  {
+    "latitude": 37.76109, 
+    "name": "Starbucks", 
+    "longitude": -122.4347
+  }, 
+  {
+    "latitude": 37.76235, 
+    "name": "Chat's Roasting Company", 
+    "longitude": -122.39822
+  }, 
+  {
+    "latitude": 37.7479028447744, 
+    "name": "Sweet Chinito", 
+    "longitude": -122.418558211852
+  }, 
+  {
+    "latitude": 37.7971115, 
+    "name": "illy Caff\u00e8", 
+    "longitude": -122.4330673
+  }, 
+  {
+    "latitude": 37.7954310178757, 
+    "name": "Cafe Isabella", 
+    "longitude": -122.413161545992
+  }, 
+  {
+    "latitude": 37.7809433, 
+    "name": "Celtic Coffee Company", 
+    "longitude": -122.4144406
+  }, 
+  {
+    "latitude": 37.8003396729648, 
+    "name": "The Plant Caf\u00e9 Organic", 
+    "longitude": -122.437772130688
+  }, 
+  {
+    "latitude": 37.7901403605938, 
+    "name": "Curbside Coffee", 
+    "longitude": -122.391165420413
+  }, 
+  {
+    "latitude": 37.7638588, 
+    "name": "Caffe Terzetto Express", 
+    "longitude": -122.4583893
+  }, 
+  {
+    "latitude": 37.7640835129311, 
+    "name": "Wildcraft Espresso Bar", 
+    "longitude": -122.432824485004
+  }, 
+  {
+    "latitude": 37.78141, 
+    "name": "Garden House Cafe", 
+    "longitude": -122.49268
+  }, 
+  {
+    "latitude": 37.764253158956, 
+    "name": "The Beanery", 
+    "longitude": -122.464595011662
+  }, 
+  {
+    "latitude": 37.7886764013327, 
+    "name": "Philz Coffee", 
+    "longitude": -122.393061536082
+  }, 
+  {
+    "latitude": 37.76997, 
+    "name": "Pork Store Cafe", 
+    "longitude": -122.44623
+  }, 
+  {
+    "latitude": 37.7866910398006, 
+    "name": "Cafe Madeleine", 
+    "longitude": -122.405581623316
+  }, 
+  {
+    "latitude": 37.7724223583937, 
+    "name": "Mission Bubbles and Coffee", 
+    "longitude": -122.422666624188
+  }, 
+  {
+    "latitude": 37.7958367325659, 
+    "name": "Cafe Me", 
+    "longitude": -122.40185511318
+  }, 
+  {
+    "latitude": 37.784094, 
+    "name": "Japonica", 
+    "longitude": -122.476617
+  }, 
+  {
+    "latitude": 37.774117, 
+    "name": "Showplace Caff\u00e8", 
+    "longitude": -122.401474
+  }, 
+  {
+    "latitude": 37.7641418236607, 
+    "name": "Starbucks", 
+    "longitude": -122.45628207922
+  }, 
+  {
+    "latitude": 37.7911140898195, 
+    "name": "Coffee Cultures", 
+    "longitude": -122.401363287703
+  }, 
+  {
+    "latitude": 37.7827671, 
+    "name": "Aroma Tea Shop", 
+    "longitude": -122.4642334
+  }, 
+  {
+    "latitude": 37.7524365484715, 
+    "name": "The Jelly Donut", 
+    "longitude": -122.416111975908
+  }, 
+  {
+    "latitude": 37.77826, 
+    "name": "Les Clos", 
+    "longitude": -122.39388
+  }, 
+  {
+    "latitude": 37.7851112186909, 
+    "name": "Caffe Del Sole", 
+    "longitude": -122.463996782899
+  }, 
+  {
+    "latitude": 37.7827209, 
+    "name": "Libby Jane Cafe", 
+    "longitude": -122.4191161
+  }, 
+  {
+    "latitude": 37.78847122192381, 
+    "name": "Special Xtra", 
+    "longitude": -122.39819335937499
+  }, 
+  {
+    "latitude": 37.7393989562988, 
+    "name": "Anda Piroshki", 
+    "longitude": -122.417991638184
+  }, 
+  {
+    "latitude": 37.799332, 
+    "name": "The Brew", 
+    "longitude": -122.422157
+  }, 
+  {
+    "latitude": 37.75181, 
+    "name": "La Boulange de Noe", 
+    "longitude": -122.42938
+  }, 
+  {
+    "latitude": 37.7971382439137, 
+    "name": "Royal Grounds Coffee", 
+    "longitude": -122.421949803829
+  }, 
+  {
+    "latitude": 37.7731895, 
+    "name": "Grandma's Deli & Cafe", 
+    "longitude": -122.4178696
+  }, 
+  {
+    "latitude": 37.7629541605711, 
+    "name": "Starbucks", 
+    "longitude": -122.410590648651
+  }, 
+  {
+    "latitude": 37.7903925, 
+    "name": "Coffee Bar", 
+    "longitude": -122.4021594
+  }, 
+  {
+    "latitude": 37.7541001886129, 
+    "name": "The Little Spot Cafe", 
+    "longitude": -122.416395619512
+  }, 
+  {
+    "latitude": 37.7732469785941, 
+    "name": "Sacred Grounds Coffee House", 
+    "longitude": -122.450822991891
+  }, 
+  {
+    "latitude": 37.78093, 
+    "name": "Acre Coffee", 
+    "longitude": -122.419174
+  }, 
+  {
+    "latitude": 37.7525444030762, 
+    "name": "L's Caffe", 
+    "longitude": -122.40958404541
+  }, 
+  {
+    "latitude": 37.7857388556004, 
+    "name": "Jebena Coffee & Tea Co", 
+    "longitude": -122.419648468494
+  }, 
+  {
+    "latitude": 37.794135537286, 
+    "name": "Chapel Hill Coffee", 
+    "longitude": -122.404256947339
+  }, 
+  {
+    "latitude": 37.7542929, 
+    "name": "BB Tea Station", 
+    "longitude": -122.4779253
+  }, 
+  {
+    "latitude": 37.7787871621352, 
+    "name": "Bravado, Italian Coffee Bar and Lounge", 
+    "longitude": -122.391337761795
+  }, 
+  {
+    "latitude": 37.80294, 
+    "name": "901 Columbus Cafe", 
+    "longitude": -122.41426
+  }, 
+  {
+    "latitude": 37.7816371, 
+    "name": "Royal Ground Coffee", 
+    "longitude": -122.452259
+  }, 
+  {
+    "latitude": 37.7896293997765, 
+    "name": "Sutter Cafe", 
+    "longitude": -122.405786141753
+  }, 
+  {
+    "latitude": 37.72498, 
+    "name": "Java On Ocean Coffee House", 
+    "longitude": -122.46019
+  }, 
+  {
+    "latitude": 37.7938194, 
+    "name": "Cafe Terminus", 
+    "longitude": -122.3967133
+  }, 
+  {
+    "latitude": 37.7598, 
+    "name": "Thinkers Cafe", 
+    "longitude": -122.39793
+  }, 
+  {
+    "latitude": 37.78508, 
+    "name": "Pete's Deli & Cafe", 
+    "longitude": -122.4400711
+  }, 
+  {
+    "latitude": 37.7896386, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.4341393
+  }, 
+  {
+    "latitude": 37.7636264, 
+    "name": "Tpumps", 
+    "longitude": -122.4785915
+  }, 
+  {
+    "latitude": 37.7523605, 
+    "name": "Cafe La Boheme", 
+    "longitude": -122.4189438
+  }, 
+  {
+    "latitude": 37.7938613891602, 
+    "name": "Il Canto Cafe", 
+    "longitude": -122.400375366211
+  }, 
+  {
+    "latitude": 37.7972298, 
+    "name": "The Station SF", 
+    "longitude": -122.4051514
+  }, 
+  {
+    "latitude": 37.7574806213379, 
+    "name": "Cafe La Taza", 
+    "longitude": -122.418586730957
+  }, 
+  {
+    "latitude": 37.768261, 
+    "name": "Carlin's Cafe", 
+    "longitude": -122.4223557
+  }, 
+  {
+    "latitude": 37.7403, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.46664
+  }, 
+  {
+    "latitude": 37.74367, 
+    "name": "Bom Dia Market", 
+    "longitude": -122.42914
+  }, 
+  {
+    "latitude": 37.76237, 
+    "name": "Donut World", 
+    "longitude": -122.46641
+  }, 
+  {
+    "latitude": 37.7803192, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.4752579
+  }, 
+  {
+    "latitude": 37.7869478294579, 
+    "name": "Cafe Madeleine", 
+    "longitude": -122.399665622613
+  }, 
+  {
+    "latitude": 37.7633476, 
+    "name": "Caffe Central", 
+    "longitude": -122.458931
+  }, 
+  {
+    "latitude": 37.73923, 
+    "name": "Toast Eatery", 
+    "longitude": -122.46787
+  }, 
+  {
+    "latitude": 37.7831981, 
+    "name": "Lafayette Coffee Shop", 
+    "longitude": -122.4156441
+  }, 
+  {
+    "latitude": 37.775906, 
+    "name": "Purple Kow", 
+    "longitude": -122.497818
+  }, 
+  {
+    "latitude": 37.7512398, 
+    "name": "Starbucks", 
+    "longitude": -122.4316177
+  }, 
+  {
+    "latitude": 37.7737453579903, 
+    "name": "Cafe Muse", 
+    "longitude": -122.465963512659
+  }, 
+  {
+    "latitude": 37.7651193737984, 
+    "name": "Sweet Inspiration", 
+    "longitude": -122.43176266551
+  }, 
+  {
+    "latitude": 37.78892, 
+    "name": "Coffee Cabin", 
+    "longitude": -122.41714
+  }, 
+  {
+    "latitude": 37.7859464, 
+    "name": "Song Tea & Ceramics", 
+    "longitude": -122.4353888
+  }, 
+  {
+    "latitude": 37.7645, 
+    "name": "Muddy Waters Coffee House", 
+    "longitude": -122.42158
+  }, 
+  {
+    "latitude": 37.7438252559903, 
+    "name": "Creighton's Bakery & Cafe", 
+    "longitude": -122.439749997445
+  }, 
+  {
+    "latitude": 37.758835, 
+    "name": "Rodger's Coffee & Tea", 
+    "longitude": -122.419662
+  }, 
+  {
+    "latitude": 37.7813797, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.421402
+  }, 
+  {
+    "latitude": 37.7714306, 
+    "name": "It's Tops Coffee Shop", 
+    "longitude": -122.4236388
+  }, 
+  {
+    "latitude": 37.7621868135634, 
+    "name": "Castro Coffee Company", 
+    "longitude": -122.434965349623
+  }, 
+  {
+    "latitude": 37.7756093399956, 
+    "name": "Cumaica Coffee", 
+    "longitude": -122.415846329194
+  }, 
+  {
+    "latitude": 37.7831954956055, 
+    "name": "Cafe Venue", 
+    "longitude": -122.406532287598
+  }, 
+  {
+    "latitude": 37.7920418, 
+    "name": "Coffee Bar", 
+    "longitude": -122.4050064
+  }, 
+  {
+    "latitude": 37.7832318053947, 
+    "name": "Cumaica", 
+    "longitude": -122.461379258057
+  }, 
+  {
+    "latitude": 37.7881894888854, 
+    "name": "Asha Tea House", 
+    "longitude": -122.40366820246
+  }, 
+  {
+    "latitude": 37.7925598, 
+    "name": "Nas Coffee", 
+    "longitude": -122.3938405
+  }, 
+  {
+    "latitude": 37.77064, 
+    "name": "Stow Lake Boathouse", 
+    "longitude": -122.4771
+  }, 
+  {
+    "latitude": 37.7226693928242, 
+    "name": "Cumaica Coffee", 
+    "longitude": -122.436413615942
+  }, 
+  {
+    "latitude": 37.7242355, 
+    "name": "Super Cue Cafe", 
+    "longitude": -122.4571381
+  }, 
+  {
+    "latitude": 37.741909, 
+    "name": "Javalencia Cafe", 
+    "longitude": -122.3885422
+  }, 
+  {
+    "latitude": 37.7958814787935, 
+    "name": "The Daily Habit", 
+    "longitude": -122.398853302002
+  }, 
+  {
+    "latitude": 37.789557, 
+    "name": "Prima Cafe", 
+    "longitude": -122.394694
+  }, 
+  {
+    "latitude": 37.7209663, 
+    "name": "Cafe 101", 
+    "longitude": -122.4780045
+  }, 
+  {
+    "latitude": 37.767986, 
+    "name": "Goody Goodie Cream & Sugar", 
+    "longitude": -122.413948
+  }, 
+  {
+    "latitude": 37.7842254638672, 
+    "name": "Angelina's Deli Cafe", 
+    "longitude": -122.481986999512
+  }, 
+  {
+    "latitude": 37.8024570643902, 
+    "name": "First Cup", 
+    "longitude": -122.424875423312
+  }, 
+  {
+    "latitude": 37.797361, 
+    "name": "R\u00e9veille Coffee Co. Truck", 
+    "longitude": -122.401649
+  }, 
+  {
+    "latitude": 37.786046, 
+    "name": "The Coffee Bean & Tea Leaf", 
+    "longitude": -122.405248
+  }, 
+  {
+    "latitude": 37.77935, 
+    "name": "Caffe Trinity", 
+    "longitude": -122.41324
+  }, 
+  {
+    "latitude": 37.72865, 
+    "name": "Silver Cafe", 
+    "longitude": -122.43157
+  }, 
+  {
+    "latitude": 37.7640505135059, 
+    "name": "Tart To Tart", 
+    "longitude": -122.465026080608
+  }, 
+  {
+    "latitude": 37.7987417831001, 
+    "name": "Fora Think Space", 
+    "longitude": -122.400884990969
+  }, 
+  {
+    "latitude": 37.7934399, 
+    "name": "Cafe Madeleine", 
+    "longitude": -122.40034
+  }, 
+  {
+    "latitude": 37.78669, 
+    "name": "Chatz Roasting Company", 
+    "longitude": -122.39774
+  }, 
+  {
+    "latitude": 37.8006369, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.4378856
+  }, 
+  {
+    "latitude": 37.7937381, 
+    "name": "Destiny Coffee and Tea", 
+    "longitude": -122.4048378
+  }, 
+  {
+    "latitude": 37.7774520368803, 
+    "name": "The Creamery", 
+    "longitude": -122.395128321879
+  }, 
+  {
+    "latitude": 37.792881571511, 
+    "name": "Espressamente iIly", 
+    "longitude": -122.40012060277
+  }, 
+  {
+    "latitude": 37.7719994, 
+    "name": "Bulldog Coffee", 
+    "longitude": -122.4052582
+  }, 
+  {
+    "latitude": 37.7869525551796, 
+    "name": "Cafe Dolci", 
+    "longitude": -122.404430955648
+  }, 
+  {
+    "latitude": 37.80384, 
+    "name": "Fresh Bay Cafe", 
+    "longitude": -122.43366
+  }, 
+  {
+    "latitude": 37.71601, 
+    "name": "Nameless Tea & Coffee", 
+    "longitude": -122.43948
+  }, 
+  {
+    "latitude": 37.7921448, 
+    "name": "Caffe Cento", 
+    "longitude": -122.4093552
+  }, 
+  {
+    "latitude": 37.7988327294588, 
+    "name": "Caffe Puccini", 
+    "longitude": -122.408147156239
+  }, 
+  {
+    "latitude": 37.7866592, 
+    "name": "Angel Cafe & Deli", 
+    "longitude": -122.4150925
+  }, 
+  {
+    "latitude": 37.79474, 
+    "name": "Gallery Cafe", 
+    "longitude": -122.41118
+  }, 
+  {
+    "latitude": 37.770271885432, 
+    "name": "Starbucks", 
+    "longitude": -122.40345160947
+  }, 
+  {
+    "latitude": 37.78332, 
+    "name": "Spiro", 
+    "longitude": -122.42049
+  }, 
+  {
+    "latitude": 37.780407, 
+    "name": "BAMBU Desserts & Drinks", 
+    "longitude": -122.484581
+  }, 
+  {
+    "latitude": 37.75185, 
+    "name": "Muddy's Coffee House", 
+    "longitude": -122.42093
+  }, 
+  {
+    "latitude": 37.7869317680597, 
+    "name": "Special Xtra 2", 
+    "longitude": -122.400192394853
+  }, 
+  {
+    "latitude": 37.7630636414137, 
+    "name": "Morning Due Cafe", 
+    "longitude": -122.428377132073
+  }, 
+  {
+    "latitude": 37.79138, 
+    "name": "Plentea", 
+    "longitude": -122.40439
+  }, 
+  {
+    "latitude": 37.7897707496248, 
+    "name": "Bread and Cocoa", 
+    "longitude": -122.403701301385
+  }, 
+  {
+    "latitude": 37.76981, 
+    "name": "San Francisco Coffee Company", 
+    "longitude": -122.414948
+  }, 
+  {
+    "latitude": 37.7613089292578, 
+    "name": "Dolores Park Cafe", 
+    "longitude": -122.425828278065
+  }, 
+  {
+    "latitude": 37.780314, 
+    "name": "Royal Ground Coffee", 
+    "longitude": -122.476362
+  }, 
+  {
+    "latitude": 37.77558, 
+    "name": "Starbucks", 
+    "longitude": -122.41302
+  }, 
+  {
+    "latitude": 37.7755094, 
+    "name": "Marla Bakery", 
+    "longitude": -122.4976948
+  }, 
+  {
+    "latitude": 37.7313385, 
+    "name": "Monterey Deli", 
+    "longitude": -122.4464264
+  }, 
+  {
+    "latitude": 37.77741, 
+    "name": "Tea Papa", 
+    "longitude": -122.46481
+  }, 
+  {
+    "latitude": 37.7631439268589, 
+    "name": "Maxfield's House of Caffeine", 
+    "longitude": -122.426368072629
+  }, 
+  {
+    "latitude": 37.79967, 
+    "name": "Blue Cafe", 
+    "longitude": -122.41729
+  }, 
+  {
+    "latitude": 37.7823292, 
+    "name": "Cafe Annalita", 
+    "longitude": -122.4036396
+  }, 
+  {
+    "latitude": 37.7650676784283, 
+    "name": "La Lucha Coffee Bar", 
+    "longitude": -122.399846653878
+  }, 
+  {
+    "latitude": 37.808821, 
+    "name": "The Spice & Tea Exchange", 
+    "longitude": -122.4102149
+  }, 
+  {
+    "latitude": 37.78228, 
+    "name": "Royal Ground Coffee", 
+    "longitude": -122.48453
+  }, 
+  {
+    "latitude": 37.7824041992426, 
+    "name": "R Caffe", 
+    "longitude": -122.418988645077
+  }, 
+  {
+    "latitude": 37.79092, 
+    "name": "Howard Street Coffee Roastery", 
+    "longitude": -122.39321
+  }, 
+  {
+    "latitude": 37.791159138701, 
+    "name": "Cafe Algiers", 
+    "longitude": -122.39610780543
+  }, 
+  {
+    "latitude": 37.7826385, 
+    "name": "Small Foods", 
+    "longitude": -122.3935013
+  }, 
+  {
+    "latitude": 37.792, 
+    "name": "Grace Cathedral Coffee Shop", 
+    "longitude": -122.41338
+  }, 
+  {
+    "latitude": 37.77797318995, 
+    "name": "The Sage Cafe", 
+    "longitude": -122.422230094671
+  }, 
+  {
+    "latitude": 37.7784199, 
+    "name": "Hayes Valley Bakeworks", 
+    "longitude": -122.42292
+  }, 
+  {
+    "latitude": 37.79997, 
+    "name": "Caffe Roma Coffee Roasting", 
+    "longitude": -122.40936
+  }, 
+  {
+    "latitude": 37.7871613, 
+    "name": "What A Grind", 
+    "longitude": -122.4162122
+  }, 
+  {
+    "latitude": 37.7886, 
+    "name": "Cup A Joe Coffeehouse", 
+    "longitude": -122.41502
+  }, 
+  {
+    "latitude": 37.7874908, 
+    "name": "Nespresso Boutique Bar", 
+    "longitude": -122.4046936
+  }, 
+  {
+    "latitude": 37.78829, 
+    "name": "Cumaica", 
+    "longitude": -122.44078
+  }, 
+  {
+    "latitude": 37.7314931899309, 
+    "name": "Railroad Expresso", 
+    "longitude": -122.45138168335
+  }, 
+  {
+    "latitude": 37.7917143556544, 
+    "name": "Moka Coffee", 
+    "longitude": -122.421063248315
+  }, 
+  {
+    "latitude": 37.769777, 
+    "name": "Astronaut Cafe", 
+    "longitude": -122.411897
+  }, 
+  {
+    "latitude": 37.77102, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.40731
+  }, 
+  {
+    "latitude": 37.7947284731866, 
+    "name": "Blue Bottle Coffee Stand", 
+    "longitude": -122.39275932312
+  }, 
+  {
+    "latitude": 37.7767715, 
+    "name": "Starbucks", 
+    "longitude": -122.3939438
+  }, 
+  {
+    "latitude": 37.781665802002, 
+    "name": "Cup & Cake Cafe", 
+    "longitude": -122.456840515137
+  }, 
+  {
+    "latitude": 37.758196, 
+    "name": "Tokyo Futon & Tea", 
+    "longitude": -122.421387
+  }, 
+  {
+    "latitude": 37.706894, 
+    "name": "Lucky Bakery and Cafe", 
+    "longitude": -122.416115
+  }, 
+  {
+    "latitude": 37.7744598388672, 
+    "name": "Caffe Roma Coffee Roasting", 
+    "longitude": -122.40412902832
+  }, 
+  {
+    "latitude": 37.793499, 
+    "name": "It's A Grind Coffee House", 
+    "longitude": -122.4210434
+  }, 
+  {
+    "latitude": 37.8015022, 
+    "name": "Transit Cafe", 
+    "longitude": -122.4556808
+  }, 
+  {
+    "latitude": 37.7905197, 
+    "name": "La Capra", 
+    "longitude": -122.3971863
+  }, 
+  {
+    "latitude": 37.7574402093887, 
+    "name": "Joey & Pat's Italian Bakery & Cafe", 
+    "longitude": -122.414477169514
+  }, 
+  {
+    "latitude": 37.7669792175293, 
+    "name": "Starbucks", 
+    "longitude": -122.393669128418
+  }, 
+  {
+    "latitude": 37.79698, 
+    "name": "Union Street Coffee Roastery", 
+    "longitude": -122.43519
+  }, 
+  {
+    "latitude": 37.7765149968095, 
+    "name": "Proxy", 
+    "longitude": -122.424164642718
+  }, 
+  {
+    "latitude": 37.7810540395645, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.400166961685
+  }, 
+  {
+    "latitude": 37.800388, 
+    "name": "DavidsTea", 
+    "longitude": -122.440917
+  }, 
+  {
+    "latitude": 37.77436888791, 
+    "name": "Javalencia Caf\u00e9", 
+    "longitude": -122.42056352338
+  }, 
+  {
+    "latitude": 37.77566, 
+    "name": "Starbucks", 
+    "longitude": -122.44621
+  }, 
+  {
+    "latitude": 37.733573684392, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.489707892954
+  }, 
+  {
+    "latitude": 37.7859725952148, 
+    "name": "Starbucks", 
+    "longitude": -122.439697265625
+  }, 
+  {
+    "latitude": 37.7412948608398, 
+    "name": "George's Coffee Shop", 
+    "longitude": -122.40161895752
+  }, 
+  {
+    "latitude": 37.809275, 
+    "name": "Biscoff Coffee Corner", 
+    "longitude": -122.409976
+  }, 
+  {
+    "latitude": 37.792023848499, 
+    "name": "Philz Coffee Truck", 
+    "longitude": -122.400961901978
+  }, 
+  {
+    "latitude": 37.7881601974304, 
+    "name": "Bancarella", 
+    "longitude": -122.407182671763
+  }, 
+  {
+    "latitude": 37.75994, 
+    "name": "Boba Guys", 
+    "longitude": -122.42112
+  }, 
+  {
+    "latitude": 37.7606839, 
+    "name": "Artis Coffee", 
+    "longitude": -122.4351537
+  }, 
+  {
+    "latitude": 37.76926, 
+    "name": "Cafe Cole", 
+    "longitude": -122.45092
+  }, 
+  {
+    "latitude": 37.7954331930734, 
+    "name": "Sightglass Coffee Stand", 
+    "longitude": -122.392877051697
+  }, 
+  {
+    "latitude": 37.7926621, 
+    "name": "NewTree Cafe & Chocolate Shop", 
+    "longitude": -122.4004488
+  }, 
+  {
+    "latitude": 37.79754, 
+    "name": "Starbucks", 
+    "longitude": -122.43031
+  }, 
+  {
+    "latitude": 37.7734299, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.4387512
+  }, 
+  {
+    "latitude": 37.743709564209, 
+    "name": "Vasquez Coffee Company", 
+    "longitude": -122.38404083252
+  }, 
+  {
+    "latitude": 37.7973462, 
+    "name": "Coffee Roaster", 
+    "longitude": -122.3982068
+  }, 
+  {
+    "latitude": 37.777661, 
+    "name": "Chump Chai", 
+    "longitude": -122.443784
+  }, 
+  {
+    "latitude": 37.7885284423828, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.395141601562
+  }, 
+  {
+    "latitude": 37.727912902832, 
+    "name": "Coffee Magic", 
+    "longitude": -122.425117492676
+  }, 
+  {
+    "latitude": 37.7851480990648, 
+    "name": "Mitsu Teahouse", 
+    "longitude": -122.429594099522
+  }, 
+  {
+    "latitude": 37.7238393611558, 
+    "name": "Zodiac Coffee & Tea", 
+    "longitude": -122.435410760932
+  }, 
+  {
+    "latitude": 37.79226, 
+    "name": "Starbucks", 
+    "longitude": -122.40348
+  }, 
+  {
+    "latitude": 37.7887, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.421608
+  }, 
+  {
+    "latitude": 37.763763, 
+    "name": "Starbucks", 
+    "longitude": -122.477485
+  }, 
+  {
+    "latitude": 37.7807170897722, 
+    "name": "Coffee Break", 
+    "longitude": -122.468739598989
+  }, 
+  {
+    "latitude": 37.805033, 
+    "name": "House of Snacks", 
+    "longitude": -122.468747
+  }, 
+  {
+    "latitude": 37.7881387621164, 
+    "name": "Cafe Encore", 
+    "longitude": -122.409738376737
+  }, 
+  {
+    "latitude": 37.7801018, 
+    "name": "Emma's Coffee House", 
+    "longitude": -122.4791183
+  }, 
+  {
+    "latitude": 37.7918762682958, 
+    "name": "Specialty's Cafe & Bakery", 
+    "longitude": -122.401858538837
+  }, 
+  {
+    "latitude": 37.7714064717293, 
+    "name": "Java Wasted Cafe", 
+    "longitude": -122.422454059124
+  }, 
+  {
+    "latitude": 37.80209, 
+    "name": "Cafe Le", 
+    "longitude": -122.42512
+  }, 
+  {
+    "latitude": 37.7816900081436, 
+    "name": "Dartealing Lounge", 
+    "longitude": -122.39631530954
+  }, 
+  {
+    "latitude": 37.801166921854, 
+    "name": "Java The Hut", 
+    "longitude": -122.449217811227
+  }, 
+  {
+    "latitude": 37.71508, 
+    "name": "Bayside Cafe", 
+    "longitude": -122.39883
+  }, 
+  {
+    "latitude": 37.7529817, 
+    "name": "Sea Biscuit Cafe & Wine Bar", 
+    "longitude": -122.5047158
+  }, 
+  {
+    "latitude": 37.7181549, 
+    "name": "Spressa Coffee Bar", 
+    "longitude": -122.4742979
+  }, 
+  {
+    "latitude": 37.784087, 
+    "name": "Sharetea", 
+    "longitude": -122.4033115
+  }, 
+  {
+    "latitude": 37.7815197408199, 
+    "name": "Gateway Croissant", 
+    "longitude": -122.416881099343
+  }, 
+  {
+    "latitude": 37.791405, 
+    "name": "Starbucks", 
+    "longitude": -122.392119
+  }, 
+  {
+    "latitude": 37.7976867556572, 
+    "name": "Starbucks", 
+    "longitude": -122.401143237948
+  }, 
+  {
+    "latitude": 37.8024788, 
+    "name": "Starbucks", 
+    "longitude": -122.4021835
+  }, 
+  {
+    "latitude": 37.7692719, 
+    "name": "San Francisco Design Center Cafe", 
+    "longitude": -122.4041595
+  }, 
+  {
+    "latitude": 37.7975733335811, 
+    "name": "La Boulangerie de San Francisco", 
+    "longitude": -122.430883571506
+  }, 
+  {
+    "latitude": 37.782649, 
+    "name": "Emo's Cafe", 
+    "longitude": -122.412942
+  }, 
+  {
+    "latitude": 37.78008, 
+    "name": "Starbucks", 
+    "longitude": -122.47805
+  }, 
+  {
+    "latitude": 37.778298, 
+    "name": "Caffe Moda", 
+    "longitude": -122.410295
+  }, 
+  {
+    "latitude": 37.7883654087782, 
+    "name": "Quetzal Internet Cafe", 
+    "longitude": -122.420168146491
+  }, 
+  {
+    "latitude": 37.7893252, 
+    "name": "Sausalito Cafe", 
+    "longitude": -122.3975863
+  }, 
+  {
+    "latitude": 37.8046999, 
+    "name": "Cafe Francisco", 
+    "longitude": -122.41199
+  }, 
+  {
+    "latitude": 37.780933, 
+    "name": "Law Cafe", 
+    "longitude": -122.415604
+  }, 
+  {
+    "latitude": 37.7420825511217, 
+    "name": "Sweet Passion Bakery", 
+    "longitude": -122.498513460159
+  }, 
+  {
+    "latitude": 37.7752456665039, 
+    "name": "All Star Cafe", 
+    "longitude": -122.419532775879
+  }, 
+  {
+    "latitude": 37.7338027954102, 
+    "name": "Pebbles Cafe", 
+    "longitude": -122.434242248535
+  }, 
+  {
+    "latitude": 37.7708228686619, 
+    "name": "Pivot/Coffee", 
+    "longitude": -122.403637357056
+  }, 
+  {
+    "latitude": 37.786541, 
+    "name": "Microryza Coffee Roasters", 
+    "longitude": -122.3940277
+  }, 
+  {
+    "latitude": 37.7829965093047, 
+    "name": "La Capra", 
+    "longitude": -122.39765436562
+  }, 
+  {
+    "latitude": 37.7986697852612, 
+    "name": "Espresso Roma Cafe", 
+    "longitude": -122.435767874122
+  }, 
+  {
+    "latitude": 37.7437207941554, 
+    "name": "Starbucks", 
+    "longitude": -122.438756151174
+  }, 
+  {
+    "latitude": 37.782466, 
+    "name": "Java Trading Company", 
+    "longitude": -122.406383
+  }, 
+  {
+    "latitude": 37.7772217, 
+    "name": "Starbucks", 
+    "longitude": -122.4173584
+  }, 
+  {
+    "latitude": 37.7828, 
+    "name": "Boba Delight", 
+    "longitude": -122.41706
+  }, 
+  {
+    "latitude": 37.7946091, 
+    "name": "Blossom Bakery", 
+    "longitude": -122.4070816
+  }, 
+  {
+    "latitude": 37.7899074250897, 
+    "name": "Starbucks", 
+    "longitude": -122.394561522077
+  }, 
+  {
+    "latitude": 37.7863772213459, 
+    "name": "Bartlett Hall", 
+    "longitude": -122.408778145909
+  }, 
+  {
+    "latitude": 37.7456703186035, 
+    "name": "Europa Malvina Coffee Company", 
+    "longitude": -122.400085449219
+  }, 
+  {
+    "latitude": 37.71163, 
+    "name": "NKG Cafe Restaurant", 
+    "longitude": -122.40423
+  }, 
+  {
+    "latitude": 37.7694478135837, 
+    "name": "Rainbow Grocery Cafe", 
+    "longitude": -122.415209954631
+  }, 
+  {
+    "latitude": 37.8012299, 
+    "name": "Cafe Destijl", 
+    "longitude": -122.40071
+  }, 
+  {
+    "latitude": 37.7702562209159, 
+    "name": "Cafe Mec", 
+    "longitude": -122.444047404829
+  }, 
+  {
+    "latitude": 37.7658848856957, 
+    "name": "Starbucks", 
+    "longitude": -122.403470847403
+  }, 
+  {
+    "latitude": 37.780295679705, 
+    "name": "InfiniTea", 
+    "longitude": -122.477084781597
+  }, 
+  {
+    "latitude": 37.7982491, 
+    "name": "Rapha", 
+    "longitude": -122.4356125
+  }, 
+  {
+    "latitude": 37.7864502547964, 
+    "name": "Caff\u00e9 Central", 
+    "longitude": -122.407704927027
+  }, 
+  {
+    "latitude": 37.7873642742634, 
+    "name": "Galvanize Cafe", 
+    "longitude": -122.396509721875
+  }, 
+  {
+    "latitude": 37.786495884965, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.40199838617
+  }, 
+  {
+    "latitude": 37.8028693692957, 
+    "name": "Parlor 1255", 
+    "longitude": -122.402824911317
+  }, 
+  {
+    "latitude": 37.7214418282263, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.478016018868
+  }, 
+  {
+    "latitude": 37.7942032366991, 
+    "name": "Latte Express", 
+    "longitude": -122.404676377773
+  }, 
+  {
+    "latitude": 37.786548614502, 
+    "name": "Starbucks", 
+    "longitude": -122.408554077148
+  }, 
+  {
+    "latitude": 37.7568078786135, 
+    "name": "Orivor Coffee Roasters", 
+    "longitude": -122.501955404878
+  }, 
+  {
+    "latitude": 37.7641248076757, 
+    "name": "Starbucks", 
+    "longitude": -122.466049268241
+  }, 
+  {
+    "latitude": 37.783947, 
+    "name": "Espresso Bar", 
+    "longitude": -122.407158
+  }, 
+  {
+    "latitude": 37.79552, 
+    "name": "Chatown", 
+    "longitude": -122.40967
+  }, 
+  {
+    "latitude": 37.7865359072629, 
+    "name": "The Roastery", 
+    "longitude": -122.39924977542
+  }, 
+  {
+    "latitude": 37.7911388128996, 
+    "name": "Cafe Venue", 
+    "longitude": -122.4022744596
+  }, 
+  {
+    "latitude": 37.795029, 
+    "name": "The Coffee Bean & Tea Leaf", 
+    "longitude": -122.396072
+  }, 
+  {
+    "latitude": 37.789311, 
+    "name": "Bernie's", 
+    "longitude": -122.403426
+  }, 
+  {
+    "latitude": 37.7820665083134, 
+    "name": "Honey B Tea House", 
+    "longitude": -122.483408984131
+  }, 
+  {
+    "latitude": 37.796492, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.422077
+  }, 
+  {
+    "latitude": 37.7926663309336, 
+    "name": "Cafe Venue", 
+    "longitude": -122.40185469389
+  }, 
+  {
+    "latitude": 37.7793694, 
+    "name": "Xpresso Tea", 
+    "longitude": -122.4936066
+  }, 
+  {
+    "latitude": 37.766966, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.409157
+  }, 
+  {
+    "latitude": 37.7880001, 
+    "name": "Espresso Subito", 
+    "longitude": -122.399838
+  }, 
+  {
+    "latitude": 37.7777861058712, 
+    "name": "Latte Express", 
+    "longitude": -122.395942434669
+  }, 
+  {
+    "latitude": 37.742786, 
+    "name": "French Bakery", 
+    "longitude": -122.478149
+  }, 
+  {
+    "latitude": 37.7970314, 
+    "name": "Blue Fog Market", 
+    "longitude": -122.4273376
+  }, 
+  {
+    "latitude": 37.8052521501992, 
+    "name": "Starbucks", 
+    "longitude": -122.414970477782
+  }, 
+  {
+    "latitude": 37.7648826688528, 
+    "name": "El Cafetazo", 
+    "longitude": -122.421567589045
+  }, 
+  {
+    "latitude": 37.8002281188965, 
+    "name": "Battery Street Coffee Roastery", 
+    "longitude": -122.401023864746
+  }, 
+  {
+    "latitude": 37.7911448782899, 
+    "name": "Sausalito Espresso", 
+    "longitude": -122.396047527296
+  }, 
+  {
+    "latitude": 37.79048, 
+    "name": "Moolicious", 
+    "longitude": -122.401247
+  }, 
+  {
+    "latitude": 37.79411, 
+    "name": "Starbucks", 
+    "longitude": -122.39688
+  }, 
+  {
+    "latitude": 37.7902, 
+    "name": "Starbucks", 
+    "longitude": -122.43382
+  }, 
+  {
+    "latitude": 37.779551, 
+    "name": "Lands End Lookout Cafe", 
+    "longitude": -122.511637
+  }, 
+  {
+    "latitude": 37.7839464694262, 
+    "name": "Cable Car Coffee Company", 
+    "longitude": -122.408205494285
+  }, 
+  {
+    "latitude": 37.730884552002, 
+    "name": "Road House Coffee Company", 
+    "longitude": -122.391777038574
+  }, 
+  {
+    "latitude": 37.7817916870117, 
+    "name": "Tongwong Coffee", 
+    "longitude": -122.406089782715
+  }, 
+  {
+    "latitude": 37.7848041549331, 
+    "name": "Starbucks", 
+    "longitude": -122.39999557109
+  }, 
+  {
+    "latitude": 37.77842245996, 
+    "name": "Starbucks", 
+    "longitude": -122.415061220527
+  }, 
+  {
+    "latitude": 37.7648665755987, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.432083189487
+  }, 
+  {
+    "latitude": 37.80439, 
+    "name": "Starbucks", 
+    "longitude": -122.43389
+  }, 
+  {
+    "latitude": 37.7845446020365, 
+    "name": "Four Seasons Restaurant", 
+    "longitude": -122.417839989066
+  }, 
+  {
+    "latitude": 37.7699509, 
+    "name": "Panini", 
+    "longitude": -122.4463196
+  }, 
+  {
+    "latitude": 37.7938961237669, 
+    "name": "Cafe Honolulu", 
+    "longitude": -122.407764270902
+  }, 
+  {
+    "latitude": 37.7161865234375, 
+    "name": "Claddagh Coffee", 
+    "longitude": -122.43985748291
+  }, 
+  {
+    "latitude": 37.776229, 
+    "name": "Allstar Cafe", 
+    "longitude": -122.41503
+  }, 
+  {
+    "latitude": 37.7638051, 
+    "name": "The Chai Cart", 
+    "longitude": -122.4219741
+  }, 
+  {
+    "latitude": 37.700683275687, 
+    "name": "Starbucks", 
+    "longitude": -122.483251775407
+  }, 
+  {
+    "latitude": 37.796663638781, 
+    "name": "Starbucks", 
+    "longitude": -122.39487132342
+  }, 
+  {
+    "latitude": 37.796196, 
+    "name": "DavidsTea", 
+    "longitude": -122.4218563
+  }, 
+  {
+    "latitude": 37.7610678970814, 
+    "name": "Sunset Strip Cafe", 
+    "longitude": -122.490059807897
+  }, 
+  {
+    "latitude": 37.7787070106078, 
+    "name": "Homeplate Boba", 
+    "longitude": -122.39015746224
+  }, 
+  {
+    "latitude": 37.7580699, 
+    "name": "Javalencia Cafe", 
+    "longitude": -122.42143
+  }, 
+  {
+    "latitude": 37.79033, 
+    "name": "Rouge et Blanc", 
+    "longitude": -122.4053
+  }, 
+  {
+    "latitude": 37.7859102, 
+    "name": "De La Paz Coffee", 
+    "longitude": -122.403361
+  }, 
+  {
+    "latitude": 37.7898815274239, 
+    "name": "Jasmin's Cafe", 
+    "longitude": -122.410698607564
+  }, 
+  {
+    "latitude": 37.7933741, 
+    "name": "Espresso Subito", 
+    "longitude": -122.3988064
+  }, 
+  {
+    "latitude": 37.7945594787598, 
+    "name": "Starbucks", 
+    "longitude": -122.40266418457
+  }, 
+  {
+    "latitude": 37.7858790010214, 
+    "name": "Simply Delight Cafe", 
+    "longitude": -122.414608597755
+  }, 
+  {
+    "latitude": 37.7698646, 
+    "name": "Academy Caf\u00e9", 
+    "longitude": -122.4660947
+  }, 
+  {
+    "latitude": 37.7955579957829, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.393437501242
+  }, 
+  {
+    "latitude": 37.7848777770996, 
+    "name": "Barbary Coast", 
+    "longitude": -122.408966064453
+  }, 
+  {
+    "latitude": 37.7974674850702, 
+    "name": "Notes From Underground", 
+    "longitude": -122.423908486962
+  }, 
+  {
+    "latitude": 37.72818, 
+    "name": "Cocola Bakery", 
+    "longitude": -122.476339
+  }, 
+  {
+    "latitude": 37.7944177, 
+    "name": "Cool Tea Bar", 
+    "longitude": -122.4038668
+  }, 
+  {
+    "latitude": 37.8090786, 
+    "name": "Cup of Love", 
+    "longitude": -122.4119338
+  }, 
+  {
+    "latitude": 37.782808, 
+    "name": "Boba Delight", 
+    "longitude": -122.417064
+  }, 
+  {
+    "latitude": 37.7936701476574, 
+    "name": "Starbucks", 
+    "longitude": -122.401229068637
+  }, 
+  {
+    "latitude": 37.7946434020996, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.401145935059
+  }, 
+  {
+    "latitude": 37.751842, 
+    "name": "DAVIDsTEA", 
+    "longitude": -122.429057
+  }, 
+  {
+    "latitude": 37.7806530819507, 
+    "name": "Nordstrom's eBar", 
+    "longitude": -122.401141693307
+  }, 
+  {
+    "latitude": 37.788291, 
+    "name": "Cafe La Taza", 
+    "longitude": -122.409652
+  }, 
+  {
+    "latitude": 37.7786513623434, 
+    "name": "Starbucks", 
+    "longitude": -122.396678569514
+  }, 
+  {
+    "latitude": 37.7875328, 
+    "name": "Starbucks", 
+    "longitude": -122.4032593
+  }, 
+  {
+    "latitude": 37.724178314209, 
+    "name": "Jo Jo's Cafe", 
+    "longitude": -122.458877563477
+  }, 
+  {
+    "latitude": 37.7889786, 
+    "name": "Starbucks", 
+    "longitude": -122.4082184
+  }, 
+  {
+    "latitude": 37.789574, 
+    "name": "T-We Tea", 
+    "longitude": -122.402784
+  }, 
+  {
+    "latitude": 37.788557, 
+    "name": "Starbucks", 
+    "longitude": -122.4222255
+  }, 
+  {
+    "latitude": 37.7931315919146, 
+    "name": "Starbucks", 
+    "longitude": -122.399776568969
+  }, 
+  {
+    "latitude": 37.785354, 
+    "name": "Murata's Cafe Hana", 
+    "longitude": -122.4303915
+  }, 
+  {
+    "latitude": 37.801792, 
+    "name": "Levi Plaza Cafe", 
+    "longitude": -122.402298
+  }, 
+  {
+    "latitude": 37.7837371826172, 
+    "name": "Nespresso Boutique at Bloomingdale's", 
+    "longitude": -122.40584564209
+  }, 
+  {
+    "latitude": 37.80074, 
+    "name": "Starbucks", 
+    "longitude": -122.43851
+  }, 
+  {
+    "latitude": 37.7834611966255, 
+    "name": "Starbucks", 
+    "longitude": -122.432968410359
+  }, 
+  {
+    "latitude": 37.790275, 
+    "name": "Academia", 
+    "longitude": -122.4040002
+  }, 
+  {
+    "latitude": 37.7610092, 
+    "name": "Bean Here, Brew That", 
+    "longitude": -122.4307785
+  }, 
+  {
+    "latitude": 37.8010292, 
+    "name": "Eva's Coffee", 
+    "longitude": -122.4253464
+  }, 
+  {
+    "latitude": 37.7876595620531, 
+    "name": "Starbucks", 
+    "longitude": -122.401033937931
+  }, 
+  {
+    "latitude": 37.796999915079, 
+    "name": "Starbucks", 
+    "longitude": -122.398257443241
+  }, 
+  {
+    "latitude": 37.7845154, 
+    "name": "The Bean Coffee Company", 
+    "longitude": -122.4040222
+  }, 
+  {
+    "latitude": 37.7556880563498, 
+    "name": "Hidden Paradise Cafe", 
+    "longitude": -122.418824359775
+  }, 
+  {
+    "latitude": 37.8060532, 
+    "name": "Beach Hut Cafe & Snack Bar", 
+    "longitude": -122.4491653
+  }, 
+  {
+    "latitude": 37.7820391732477, 
+    "name": "Starbucks", 
+    "longitude": -122.447097944207
+  }, 
+  {
+    "latitude": 37.7605019, 
+    "name": "Ox Cafe & Tea", 
+    "longitude": -122.4173126
+  }, 
+  {
+    "latitude": 37.7903421968222, 
+    "name": "The Chai Cart", 
+    "longitude": -122.40000128746
+  }, 
+  {
+    "latitude": 37.7537147, 
+    "name": "Blissful Tea", 
+    "longitude": -122.4911549
+  }, 
+  {
+    "latitude": 37.752483, 
+    "name": "Silverstone Cafe", 
+    "longitude": -122.417984
+  }, 
+  {
+    "latitude": 37.741584777832, 
+    "name": "Tiffanys Cafe", 
+    "longitude": -122.387649536133
+  }, 
+  {
+    "latitude": 37.7758488804102, 
+    "name": "Simple Pleasures Coffee Roasting", 
+    "longitude": -122.495509386063
+  }, 
+  {
+    "latitude": 37.7921010553837, 
+    "name": "Gracie's Cafe Society", 
+    "longitude": -122.400600090623
+  }, 
+  {
+    "latitude": 37.7884979248047, 
+    "name": "Specialty's Cafe & Bakery", 
+    "longitude": -122.396667480469
+  }, 
+  {
+    "latitude": 37.7880113, 
+    "name": "Emporio Rulli Union Square", 
+    "longitude": -122.4067142
+  }, 
+  {
+    "latitude": 37.7911227196455, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.402386441827
+  }, 
+  {
+    "latitude": 37.7269, 
+    "name": "Panda Boba", 
+    "longitude": -122.403065
+  }, 
+  {
+    "latitude": 37.7275659465948, 
+    "name": "Starbucks", 
+    "longitude": -122.476789807071
+  }, 
+  {
+    "latitude": 37.7871933, 
+    "name": "Starbucks", 
+    "longitude": -122.4106216
+  }, 
+  {
+    "latitude": 37.7952880222727, 
+    "name": "The Posh Bagel", 
+    "longitude": -122.39599943161
+  }, 
+  {
+    "latitude": 37.789938, 
+    "name": "The Posh Bagel", 
+    "longitude": -122.40499
+  }, 
+  {
+    "latitude": 37.7967262268066, 
+    "name": "Starbucks", 
+    "longitude": -122.422218322754
+  }, 
+  {
+    "latitude": 37.7284957779755, 
+    "name": "Peet's Coffee And Tea", 
+    "longitude": -122.476696399429
+  }, 
+  {
+    "latitude": 37.7927581, 
+    "name": "The Chai Cart", 
+    "longitude": -122.3969385
+  }, 
+  {
+    "latitude": 37.7905426025391, 
+    "name": "Divine Chai", 
+    "longitude": -122.395919799805
+  }, 
+  {
+    "latitude": 37.7908592, 
+    "name": "Gid Coffee Cart", 
+    "longitude": -122.3910217
+  }, 
+  {
+    "latitude": 37.79521, 
+    "name": "Starbucks", 
+    "longitude": -122.4007
+  }, 
+  {
+    "latitude": 37.7877840242386, 
+    "name": "Caruso's", 
+    "longitude": -122.408736015808
+  }, 
+  {
+    "latitude": 37.7285024750836, 
+    "name": "The Storehouse", 
+    "longitude": -122.366742301638
+  }, 
+  {
+    "latitude": 37.7767485839936, 
+    "name": "Tazza D'Amore Cafe", 
+    "longitude": -122.394835352898
+  }, 
+  {
+    "latitude": 37.78394, 
+    "name": "Starbucks", 
+    "longitude": -122.40715
+  }, 
+  {
+    "latitude": 37.791351, 
+    "name": "On the Go Espresso", 
+    "longitude": -122.393112
+  }, 
+  {
+    "latitude": 37.7874221801758, 
+    "name": "Tart To Tart", 
+    "longitude": -122.400932312012
+  }, 
+  {
+    "latitude": 37.7795476466417, 
+    "name": "Colognia Watercafe", 
+    "longitude": -122.433677092195
+  }, 
+  {
+    "latitude": 37.7918187528849, 
+    "name": "Starbucks", 
+    "longitude": -122.398257851601
+  }, 
+  {
+    "latitude": 37.7843803, 
+    "name": "Specialty's Cafe & Bakery", 
+    "longitude": -122.3985485
+  }, 
+  {
+    "latitude": 37.7946869314868, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.398850892018
+  }, 
+  {
+    "latitude": 37.7936942875385, 
+    "name": "Les Croissants", 
+    "longitude": -122.396460101008
+  }, 
+  {
+    "latitude": 37.8065832, 
+    "name": "Starbucks", 
+    "longitude": -122.4204179
+  }, 
+  {
+    "latitude": 37.78325, 
+    "name": "Bottle Zup", 
+    "longitude": -122.46315
+  }, 
+  {
+    "latitude": 37.781243223816, 
+    "name": "Coffee Smith", 
+    "longitude": -122.417377346399
+  }, 
+  {
+    "latitude": 37.7896405393013, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.400852182587
+  }, 
+  {
+    "latitude": 37.7850951924347, 
+    "name": "Mission Street Pantry", 
+    "longitude": -122.404191233218
+  }, 
+  {
+    "latitude": 37.784673, 
+    "name": "Starbucks", 
+    "longitude": -122.404157
+  }, 
+  {
+    "latitude": 37.7845495729768, 
+    "name": "Les Croissants Cafe", 
+    "longitude": -122.433692459061
+  }, 
+  {
+    "latitude": 37.796791, 
+    "name": "Crave", 
+    "longitude": -122.421646
+  }, 
+  {
+    "latitude": 37.783947, 
+    "name": "Cafe Bellini", 
+    "longitude": -122.407158
+  }, 
+  {
+    "latitude": 37.7892693132162, 
+    "name": "Starbucks", 
+    "longitude": -122.406853660941
+  }, 
+  {
+    "latitude": 37.80135, 
+    "name": "Melt!", 
+    "longitude": -122.41129
+  }, 
+  {
+    "latitude": 37.7260513, 
+    "name": "BBC Cafe", 
+    "longitude": -122.401413
+  }, 
+  {
+    "latitude": 37.7759099006653, 
+    "name": "De La Paz Coffee", 
+    "longitude": -122.438460811973
+  }, 
+  {
+    "latitude": 37.7899170666933, 
+    "name": "Java Chez Moi", 
+    "longitude": -122.420611381531
+  }, 
+  {
+    "latitude": 37.7878531068563, 
+    "name": "Gallery Cafe Live", 
+    "longitude": -122.411357760429
+  }, 
+  {
+    "latitude": 37.7250051650622, 
+    "name": "Starbucks", 
+    "longitude": -122.461349355776
+  }, 
+  {
+    "latitude": 37.7926406860352, 
+    "name": "Cafe Rocca", 
+    "longitude": -122.398971557617
+  }, 
+  {
+    "latitude": 37.765258, 
+    "name": "Gaudi", 
+    "longitude": -122.418366
+  }, 
+  {
+    "latitude": 37.7901497, 
+    "name": "Starbucks", 
+    "longitude": -122.4217606
+  }, 
+  {
+    "latitude": 37.7880542725325, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.399658635259
+  }, 
+  {
+    "latitude": 37.7900136262178, 
+    "name": "Roxanne's Cafe", 
+    "longitude": -122.408703044057
+  }, 
+  {
+    "latitude": 37.76912, 
+    "name": "Starbucks", 
+    "longitude": -122.42783
+  }, 
+  {
+    "latitude": 37.79644, 
+    "name": "Quickly - Kobe Bento", 
+    "longitude": -122.40538
+  }, 
+  {
+    "latitude": 37.7403858, 
+    "name": "Quickly", 
+    "longitude": -122.4664309
+  }, 
+  {
+    "latitude": 37.7240916341543, 
+    "name": "CCSF City Cafe", 
+    "longitude": -122.45229832828
+  }, 
+  {
+    "latitude": 37.789711, 
+    "name": "Starbucks", 
+    "longitude": -122.4019699
+  }, 
+  {
+    "latitude": 37.809403, 
+    "name": "Cup & Cake Caf\u00e9", 
+    "longitude": -122.41013
+  }, 
+  {
+    "latitude": 37.7635498, 
+    "name": "Teaway", 
+    "longitude": -122.4822693
+  }, 
+  {
+    "latitude": 37.7864305, 
+    "name": "Nile Cafe & Hookah Lounge", 
+    "longitude": -122.4127844
+  }, 
+  {
+    "latitude": 37.7648846805096, 
+    "name": "Better Cup", 
+    "longitude": -122.387915253639
+  }, 
+  {
+    "latitude": 37.7859612, 
+    "name": "Starbucks", 
+    "longitude": -122.3968124
+  }, 
+  {
+    "latitude": 37.8074783578214, 
+    "name": "Golden Gate Bridge Cafe", 
+    "longitude": -122.475543022156
+  }, 
+  {
+    "latitude": 37.7261505, 
+    "name": "Quickly", 
+    "longitude": -122.4340515
+  }, 
+  {
+    "latitude": 37.7853546, 
+    "name": "Chocolate Chair", 
+    "longitude": -122.4303894
+  }, 
+  {
+    "latitude": 37.7887992858887, 
+    "name": "Cafe Bean", 
+    "longitude": -122.413841247559
+  }, 
+  {
+    "latitude": 37.7919853435642, 
+    "name": "Starbucks", 
+    "longitude": -122.394561808708
+  }, 
+  {
+    "latitude": 37.7416475, 
+    "name": "Jeremiah's Pick Coffee Company", 
+    "longitude": -122.3864794
+  }, 
+  {
+    "latitude": 37.785354, 
+    "name": "May's Coffee Shop", 
+    "longitude": -122.4303915
+  }, 
+  {
+    "latitude": 37.7432057, 
+    "name": "Quickly", 
+    "longitude": -122.4776946
+  }, 
+  {
+    "latitude": 37.7529506, 
+    "name": "Loop Neighborhood", 
+    "longitude": -122.3878955
+  }, 
+  {
+    "latitude": 37.7912729, 
+    "name": "Foundation Cafe", 
+    "longitude": -122.4042721
+  }, 
+  {
+    "latitude": 37.7634394, 
+    "name": "Moffitt Cafe Express", 
+    "longitude": -122.4576051
+  }, 
+  {
+    "latitude": 37.7803368866444, 
+    "name": "Cafe Art & Garden", 
+    "longitude": -122.417806461453
+  }, 
+  {
+    "latitude": 37.7871932983398, 
+    "name": "Drip", 
+    "longitude": -122.422439575195
+  }, 
+  {
+    "latitude": 37.763714, 
+    "name": "Intelligentsia Coffee", 
+    "longitude": -122.39518
+  }, 
+  {
+    "latitude": 37.795143, 
+    "name": "Tully's Coffee", 
+    "longitude": -122.404312
+  }, 
+  {
+    "latitude": 37.7243109047413, 
+    "name": "Lucky Ocean Cafe", 
+    "longitude": -122.458392307162
+  }, 
+  {
+    "latitude": 37.76798, 
+    "name": "Cafe Harrison", 
+    "longitude": -122.41395
+  }, 
+  {
+    "latitude": 37.7903404, 
+    "name": "Starbucks", 
+    "longitude": -122.4057999
+  }, 
+  {
+    "latitude": 37.784516, 
+    "name": "Moolicious", 
+    "longitude": -122.4040259
+  }, 
+  {
+    "latitude": 37.8033791, 
+    "name": "SFAI Cafe", 
+    "longitude": -122.4170532
+  }, 
+  {
+    "latitude": 37.807388, 
+    "name": "Quickly", 
+    "longitude": -122.418541
+  }, 
+  {
+    "latitude": 37.79405, 
+    "name": "Morning Brew Cafe", 
+    "longitude": -122.40163
+  }, 
+  {
+    "latitude": 37.795063, 
+    "name": "Starbucks", 
+    "longitude": -122.401825
+  }, 
+  {
+    "latitude": 37.788656, 
+    "name": "Starbucks", 
+    "longitude": -122.434508
+  }, 
+  {
+    "latitude": 37.7906609, 
+    "name": "Starbucks", 
+    "longitude": -122.4037628
+  }, 
+  {
+    "latitude": 37.7634926140308, 
+    "name": "Palio Cafe", 
+    "longitude": -122.458098605275
+  }, 
+  {
+    "latitude": 37.7599487304688, 
+    "name": "SHAMA coffee shop", 
+    "longitude": -122.419479370117
+  }, 
+  {
+    "latitude": 37.7849268168211, 
+    "name": "Chocolate Chair", 
+    "longitude": -122.431139051914
+  }, 
+  {
+    "latitude": 37.78924, 
+    "name": "Chai-Yo Sweets & Treats", 
+    "longitude": -122.42065
+  }, 
+  {
+    "latitude": 37.7209249, 
+    "name": "Cafe Rosso", 
+    "longitude": -122.4770633
+  }, 
+  {
+    "latitude": 37.793338, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.398213
+  }, 
+  {
+    "latitude": 37.729581214138, 
+    "name": "Butchertown Gourmet", 
+    "longitude": -122.392328493297
+  }, 
+  {
+    "latitude": 37.7823296, 
+    "name": "Good Morning Cafe", 
+    "longitude": -122.4036407
+  }, 
+  {
+    "latitude": 37.7695922851562, 
+    "name": "Power Up Cafe", 
+    "longitude": -122.406944274902
+  }, 
+  {
+    "latitude": 37.7231102, 
+    "name": "Quickly", 
+    "longitude": -122.4537735
+  }, 
+  {
+    "latitude": 37.7947273254395, 
+    "name": "Red Blossom Tea Company", 
+    "longitude": -122.40657043457
+  }, 
+  {
+    "latitude": 37.74527, 
+    "name": "Mavericks Coffee", 
+    "longitude": -122.43791
+  }, 
+  {
+    "latitude": 37.7936010807753, 
+    "name": "Starbucks", 
+    "longitude": -122.397161498666
+  }, 
+  {
+    "latitude": 37.729625031352, 
+    "name": "Fox and Lion Bread", 
+    "longitude": -122.392356991768
+  }, 
+  {
+    "latitude": 37.7143058776855, 
+    "name": "Quickly", 
+    "longitude": -122.44263458252
+  }, 
+  {
+    "latitude": 37.7209249, 
+    "name": "Station Cafe", 
+    "longitude": -122.4770633
+  }, 
+  {
+    "latitude": 37.8014465421438, 
+    "name": "Grafeo Coffee", 
+    "longitude": -122.411917671561
+  }, 
+  {
+    "latitude": 37.789924, 
+    "name": "Steep Brew", 
+    "longitude": -122.423384
+  }, 
+  {
+    "latitude": 37.7766342, 
+    "name": "Starbucks", 
+    "longitude": -122.3941193
+  }, 
+  {
+    "latitude": 37.7925723, 
+    "name": "Caffe Cova", 
+    "longitude": -122.405419
+  }, 
+  {
+    "latitude": 37.7525111, 
+    "name": "La Reyna Bakery & Coffee Shop", 
+    "longitude": -122.4145487
+  }, 
+  {
+    "latitude": 37.7831656, 
+    "name": "Latte Express", 
+    "longitude": -122.4072424
+  }, 
+  {
+    "latitude": 37.705479, 
+    "name": "Cuthbert's Tea Shoppe At Dickens Fair", 
+    "longitude": -122.419891
+  }, 
+  {
+    "latitude": 37.7864266725782, 
+    "name": "Brewroom", 
+    "longitude": -122.408772446215
+  }, 
+  {
+    "latitude": 37.7901830395829, 
+    "name": "Starbucks", 
+    "longitude": -122.402077652514
+  }, 
+  {
+    "latitude": 37.7605343156777, 
+    "name": "920 Express", 
+    "longitude": -122.458773322754
+  }, 
+  {
+    "latitude": 37.7268999069929, 
+    "name": "Espresso Bar", 
+    "longitude": -122.475757598877
+  }, 
+  {
+    "latitude": 37.7486686706543, 
+    "name": "Nomadic Ground", 
+    "longitude": -122.415794372559
+  }, 
+  {
+    "latitude": 37.7844446897507, 
+    "name": "Quickly", 
+    "longitude": -122.417819201946
+  }, 
+  {
+    "latitude": 37.7836091816425, 
+    "name": "Kien Thanh Coffee Shop", 
+    "longitude": -122.414801716805
+  }, 
+  {
+    "latitude": 37.7887124161117, 
+    "name": "Starbucks", 
+    "longitude": -122.40081740659
+  }, 
+  {
+    "latitude": 37.8053172, 
+    "name": "Tan's Cafe III", 
+    "longitude": -122.4077918
+  }, 
+  {
+    "latitude": 37.767845, 
+    "name": "Cafe 101", 
+    "longitude": -122.403336
+  }, 
+  {
+    "latitude": 37.7570901811123, 
+    "name": "Cafe Razzi", 
+    "longitude": -122.388043999672
+  }, 
+  {
+    "latitude": 37.7797086117, 
+    "name": "United Nations Cafe", 
+    "longitude": -122.413868152
+  }, 
+  {
+    "latitude": 37.7787680458737, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.388170873664
+  }, 
+  {
+    "latitude": 37.785131, 
+    "name": "Starbucks", 
+    "longitude": -122.40468
+  }, 
+  {
+    "latitude": 37.7538414, 
+    "name": "Starbucks", 
+    "longitude": -122.4888229
+  }, 
+  {
+    "latitude": 37.7966156005859, 
+    "name": "Vital Tea Leaf", 
+    "longitude": -122.406593322754
+  }, 
+  {
+    "latitude": 37.7907486, 
+    "name": "The Coffee Bean & Tea Leaf", 
+    "longitude": -122.4025497
+  }, 
+  {
+    "latitude": 37.7762909, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.3900223
+  }, 
+  {
+    "latitude": 37.9357605, 
+    "name": "Slow City Cafe", 
+    "longitude": -122.3435974
+  }, 
+  {
+    "latitude": 37.7966424103424, 
+    "name": "Starbucks", 
+    "longitude": -122.395560532439
+  }, 
+  {
+    "latitude": 37.8074684, 
+    "name": "Starbucks", 
+    "longitude": -122.4178238
+  }, 
+  {
+    "latitude": 37.7232495, 
+    "name": "Taza Smoothies & Wraps", 
+    "longitude": -122.4830109
+  }, 
+  {
+    "latitude": 37.7821128080096, 
+    "name": "Starbucks", 
+    "longitude": -122.447186721606
+  }, 
+  {
+    "latitude": 37.7909469604492, 
+    "name": "Starbucks", 
+    "longitude": -122.398635864258
+  }, 
+  {
+    "latitude": 37.7843305581271, 
+    "name": "DAVIDsTEA", 
+    "longitude": -122.406689575856
+  }, 
+  {
+    "latitude": 37.7905024588108, 
+    "name": "Deli & ...", 
+    "longitude": -122.402149736881
+  }, 
+  {
+    "latitude": 37.7840996, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.4061432
+  }, 
+  {
+    "latitude": 37.8088226, 
+    "name": "San Francisco Coffee Roasting Co", 
+    "longitude": -122.4102173
+  }, 
+  {
+    "latitude": 37.793389, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.397183
+  }, 
+  {
+    "latitude": 37.7781804, 
+    "name": "Outtakes Cafe", 
+    "longitude": -122.4515709
+  }, 
+  {
+    "latitude": 37.7843722701073, 
+    "name": "Tu Kim Coffee Shop", 
+    "longitude": -122.416329905391
+  }, 
+  {
+    "latitude": 37.7712910860711, 
+    "name": "Starbucks", 
+    "longitude": -122.389293971144
+  }, 
+  {
+    "latitude": 37.7844422290415, 
+    "name": "La Cocina", 
+    "longitude": -122.406366832955
+  }, 
+  {
+    "latitude": 37.7933388, 
+    "name": "Caffe Cova", 
+    "longitude": -122.404213
+  }, 
+  {
+    "latitude": 37.7848504857195, 
+    "name": "Pacific Puffs", 
+    "longitude": -122.406448259146
+  }, 
+  {
+    "latitude": 37.7862330008231, 
+    "name": "Starbucks", 
+    "longitude": -122.40555317294
+  }, 
+  {
+    "latitude": 37.7958118008865, 
+    "name": "Marla Bakery", 
+    "longitude": -122.394004873931
+  }, 
+  {
+    "latitude": 37.7688866, 
+    "name": "Pete's Coffee Cart", 
+    "longitude": -122.4356384
+  }, 
+  {
+    "latitude": 37.74695, 
+    "name": "Precita Food Mart", 
+    "longitude": -122.4183
+  }, 
+  {
+    "latitude": 37.792118, 
+    "name": "Ten Ren's Tea", 
+    "longitude": -122.405701
+  }, 
+  {
+    "latitude": 37.7896233, 
+    "name": "Starbucks", 
+    "longitude": -122.4011688
+  }, 
+  {
+    "latitude": 37.7800103, 
+    "name": "DNA Pizza", 
+    "longitude": -122.4034803
+  }, 
+  {
+    "latitude": 37.78564, 
+    "name": "Starbucks", 
+    "longitude": -122.41041
+  }, 
+  {
+    "latitude": 37.7552354335785, 
+    "name": "De La Paz Coffee", 
+    "longitude": -122.413174286485
+  }, 
+  {
+    "latitude": 37.7844609656521, 
+    "name": "Starbucks", 
+    "longitude": -122.403990430788
+  }, 
+  {
+    "latitude": 37.7916732430458, 
+    "name": "Vital Tea Leaf", 
+    "longitude": -122.405806258321
+  }, 
+  {
+    "latitude": 37.791576385498, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.399360656738
+  }, 
+  {
+    "latitude": 37.7217303670223, 
+    "name": "HSS Cafe", 
+    "longitude": -122.47607946395901
+  }, 
+  {
+    "latitude": 37.782965451479, 
+    "name": "Quickly", 
+    "longitude": -122.462978884578
+  }, 
+  {
+    "latitude": 37.7634570747614, 
+    "name": "Quickly", 
+    "longitude": -122.480641901493
+  }, 
+  {
+    "latitude": 37.7869682, 
+    "name": "Peet's Coffee & Tea Cart", 
+    "longitude": -122.4059525
+  }, 
+  {
+    "latitude": 37.7762108, 
+    "name": "Caff\u00e8 D'Amore", 
+    "longitude": -122.393898
+  }, 
+  {
+    "latitude": 37.7919222003697, 
+    "name": "Starbucks", 
+    "longitude": -122.397657010452
+  }, 
+  {
+    "latitude": 37.7841, 
+    "name": "Lupicia Tea Shop", 
+    "longitude": -122.406145
+  }, 
+  {
+    "latitude": 37.7747072339867, 
+    "name": "The Chai Cart", 
+    "longitude": -122.416382879019
+  }, 
+  {
+    "latitude": 37.7999801635742, 
+    "name": "Bay Watch Restaurant", 
+    "longitude": -122.437301635742
+  }, 
+  {
+    "latitude": 37.7955100592625, 
+    "name": "Highwire Coffee Roasters", 
+    "longitude": -122.392986216881
+  }, 
+  {
+    "latitude": 37.7796173840761, 
+    "name": "LL2 Lounge", 
+    "longitude": -122.390217930079
+  }, 
+  {
+    "latitude": 37.7113699167967, 
+    "name": "The Wheat House Bakery", 
+    "longitude": -122.40430958569
+  }, 
+  {
+    "latitude": 37.7867965698242, 
+    "name": "Starbucks", 
+    "longitude": -122.407363891602
+  }, 
+  {
+    "latitude": 37.7643, 
+    "name": "The Posh Bagel", 
+    "longitude": -122.46588
+  }, 
+  {
+    "latitude": 37.7775910252637, 
+    "name": "Focaccia Market & Bakery", 
+    "longitude": -122.413091808558
+  }, 
+  {
+    "latitude": 37.779158, 
+    "name": "Java Source Market", 
+    "longitude": -122.459562
+  }, 
+  {
+    "latitude": 37.795235, 
+    "name": "Lost Ladle Cafe", 
+    "longitude": -122.40361
+  }, 
+  {
+    "latitude": 37.7951001816931, 
+    "name": "Four Barrel Coffee Stand", 
+    "longitude": -122.393751069903
+  }, 
+  {
+    "latitude": 37.784947603941, 
+    "name": "Cafe Bellini", 
+    "longitude": -122.407770976424
+  }, 
+  {
+    "latitude": 37.7891960144043, 
+    "name": "Starbucks", 
+    "longitude": -122.397491455078
+  }, 
+  {
+    "latitude": 37.7691307067871, 
+    "name": "Starbucks", 
+    "longitude": -122.428031921387
+  }, 
+  {
+    "latitude": 37.7525270730257, 
+    "name": "Corazon", 
+    "longitude": -122.418565526605
+  }, 
+  {
+    "latitude": 37.7870599, 
+    "name": "The Family Room", 
+    "longitude": -122.41636
+  }, 
+  {
+    "latitude": 37.7220123319732, 
+    "name": "BonMi", 
+    "longitude": -122.476796092632
+  }, 
+  {
+    "latitude": 37.763238, 
+    "name": "SF Teatime Gifts", 
+    "longitude": -122.410345
+  }, 
+  {
+    "latitude": 37.7951113090751, 
+    "name": "Sidewalk Caf\u00e9", 
+    "longitude": -122.421882078052
+  }, 
+  {
+    "latitude": 37.7769165039062, 
+    "name": "Royal Ground", 
+    "longitude": -122.424354553223
+  }, 
+  {
+    "latitude": 37.72856, 
+    "name": "Teavana", 
+    "longitude": -122.47688
+  }, 
+  {
+    "latitude": 37.7976494, 
+    "name": "Yoogo Corporation", 
+    "longitude": -122.4072189
+  }, 
+  {
+    "latitude": 37.7852734923363, 
+    "name": "Cafe Tan Tan", 
+    "longitude": -122.43147097528
+  }, 
+  {
+    "latitude": 37.7881853751016, 
+    "name": "Starbucks", 
+    "longitude": -122.408305270153
+  }, 
+  {
+    "latitude": 37.79772, 
+    "name": "Starbucks", 
+    "longitude": -122.40115
+  }, 
+  {
+    "latitude": 37.793869, 
+    "name": "Starbucks", 
+    "longitude": -122.3948593
+  }, 
+  {
+    "latitude": 37.7285614, 
+    "name": "Gaga Cafe", 
+    "longitude": -122.4768829
+  }, 
+  {
+    "latitude": 37.7695624530315, 
+    "name": "Peace Cafe", 
+    "longitude": -122.449958771467
+  }, 
+  {
+    "latitude": 37.8083915710449, 
+    "name": "SF Tea and Coffee", 
+    "longitude": -122.41015625
+  }, 
+  {
+    "latitude": 37.7973462, 
+    "name": "Gourmet Graffeo Coffee & Tea & Chocolate Truffles", 
+    "longitude": -122.3982068
+  }, 
+  {
+    "latitude": 37.7749677747488, 
+    "name": "Caf\u00e9 Kendrick", 
+    "longitude": -122.452649697661
+  }, 
+  {
+    "latitude": 37.7680001, 
+    "name": "The Pub", 
+    "longitude": -122.3934754
+  }, 
+  {
+    "latitude": 37.7276115, 
+    "name": "Blue Tiger Coffee Service", 
+    "longitude": -122.381367
+  }, 
+  {
+    "latitude": 37.7965769916773, 
+    "name": "Natural Tea Shop", 
+    "longitude": -122.408437505364
+  }, 
+  {
+    "latitude": 37.7925911, 
+    "name": "Tea & Red Wine", 
+    "longitude": -122.420929
+  }, 
+  {
+    "latitude": 37.72856, 
+    "name": "Quickly", 
+    "longitude": -122.47688
+  }, 
+  {
+    "latitude": 37.7861142737193, 
+    "name": "Schoggi Imported Swiss Chocolates", 
+    "longitude": -122.404668331146
+  }, 
+  {
+    "latitude": 37.800464630127, 
+    "name": "The Gipsy Darling", 
+    "longitude": -122.436431884766
+  }, 
+  {
+    "latitude": 37.7804718, 
+    "name": "Java Xpress", 
+    "longitude": -122.4121704
+  }, 
+  {
+    "latitude": 37.784422, 
+    "name": "El Mercadito", 
+    "longitude": -122.412965
+  }, 
+  {
+    "latitude": 37.79491, 
+    "name": "Maggie's Cafe", 
+    "longitude": -122.406265
+  }, 
+  {
+    "latitude": 37.7803342044353, 
+    "name": "STEEP", 
+    "longitude": -122.395782843232
+  }, 
+  {
+    "latitude": 37.7829533815384, 
+    "name": "Carousel Cafe", 
+    "longitude": -122.402228191495
+  }, 
+  {
+    "latitude": 37.7888219515835, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.403815053403
+  }, 
+  {
+    "latitude": 37.7475586, 
+    "name": "St. Luke's Hospital Coffee Cart", 
+    "longitude": -122.4203796
+  }, 
+  {
+    "latitude": 37.7909228950739, 
+    "name": "Cafe Vivo", 
+    "longitude": -122.404116466641
+  }, 
+  {
+    "latitude": 37.7895584, 
+    "name": "Golden Gate University Cafe", 
+    "longitude": -122.3991318
+  }, 
+  {
+    "latitude": 37.7989693, 
+    "name": "Il Caffe", 
+    "longitude": -122.4207306
+  }, 
+  {
+    "latitude": 37.7949274421208, 
+    "name": "illy Caffe", 
+    "longitude": -122.399552352726
+  }, 
+  {
+    "latitude": 37.77501, 
+    "name": "Adam's Organic Coffees", 
+    "longitude": -122.41826
+  }, 
+  {
+    "latitude": 37.76067, 
+    "name": "Jims's Sandwich & Smoke Shop", 
+    "longitude": -122.38777
+  }, 
+  {
+    "latitude": 37.7209244, 
+    "name": "Carmelina La Petite", 
+    "longitude": -122.4771957
+  }, 
+  {
+    "latitude": 37.7818794, 
+    "name": "Dignita", 
+    "longitude": -122.4113235
+  }, 
+  {
+    "latitude": 37.7788071023831, 
+    "name": "@caf\u00e9", 
+    "longitude": -122.388155311346
+  }, 
+  {
+    "latitude": 37.793861, 
+    "name": "Nas Coffee II", 
+    "longitude": -122.400375
+  }, 
+  {
+    "latitude": 37.7946505810744, 
+    "name": "Boba Pioca", 
+    "longitude": -122.404780313373
+  }, 
+  {
+    "latitude": 37.7922096, 
+    "name": "On the Go Espresso", 
+    "longitude": -122.393898
+  }, 
+  {
+    "latitude": 37.78394, 
+    "name": "Teavana", 
+    "longitude": -122.40715
+  }, 
+  {
+    "latitude": 37.7909203, 
+    "name": "On the Go Coffee Stand", 
+    "longitude": -122.3932114
+  }, 
+  {
+    "latitude": 37.776588, 
+    "name": "Noble Groceries", 
+    "longitude": -122.41246
+  }, 
+  {
+    "latitude": 37.792976, 
+    "name": "Peet's Coffee & Tea", 
+    "longitude": -122.396742
+  }, 
+  {
+    "latitude": 37.7658081, 
+    "name": "Starbucks", 
+    "longitude": -122.4089966
+  }, 
+  {
+    "latitude": 37.7895584, 
+    "name": "GGU Student Center Cafe", 
+    "longitude": -122.3991318
+  }, 
+  {
+    "latitude": 37.7889748, 
+    "name": "Montgomery BART Station Coffee Shop", 
+    "longitude": -122.4019547
+  }, 
+  {
+    "latitude": 37.786797, 
+    "name": "Confetti Cafe at Macy's", 
+    "longitude": -122.407364
+  }, 
+  {
+    "latitude": 37.784462, 
+    "name": "Bien Hoa", 
+    "longitude": -122.413734
+  }, 
+  {
+    "latitude": 37.7007229127285, 
+    "name": "Starbucks", 
+    "longitude": -122.483195442342
+  }, 
+  {
+    "latitude": 37.78128, 
+    "name": "Honey Donut", 
+    "longitude": -122.40871
+  }, 
+  {
+    "latitude": 37.7904396, 
+    "name": "Schwab Plaza Cafe", 
+    "longitude": -122.3929596
+  }, 
+  {
+    "latitude": 37.7889731, 
+    "name": "Scooter", 
+    "longitude": -122.4019531
+  }, 
+  {
+    "latitude": 37.7847498, 
+    "name": "Can Tho Coffee", 
+    "longitude": -122.413063
+  }, 
+  {
+    "latitude": 37.7867601066828, 
+    "name": "Adante's Inferno Internet Cafe", 
+    "longitude": -122.413430437446
+  }, 
+  {
+    "latitude": 37.784947603941, 
+    "name": "Segafredo Zanetti", 
+    "longitude": -122.407770976424
+  }, 
+  {
+    "latitude": 37.7427673339844, 
+    "name": "Cafe Benally", 
+    "longitude": -122.478569030762
+  }, 
+  {
+    "latitude": 37.8006559610367, 
+    "name": "Kopi Luwak Trading Company", 
+    "longitude": -122.407090365887
+  }, 
+  {
+    "latitude": 37.7944463413645, 
+    "name": "3.3 Snack bar Cafe", 
+    "longitude": -122.406920361938
+  }, 
+  {
+    "latitude": 37.7867992177521, 
+    "name": "Starbucks", 
+    "longitude": -122.407396137714
+  }, 
+  {
+    "latitude": 37.80328, 
+    "name": "Javawalk", 
+    "longitude": -122.41069
+  }, 
+  {
+    "latitude": 37.752483, 
+    "name": "Silverstone Cafe", 
+    "longitude": -122.417984
+  }, 
+  {
+    "latitude": 37.7793922424316, 
+    "name": "Caffe Roma Coffee Roasting Company", 
+    "longitude": -122.417930603027
+  }, 
+  {
+    "latitude": 37.75321, 
+    "name": "John's Coffee Shop", 
+    "longitude": -122.41889
+  }, 
+  {
+    "latitude": 37.7867584228516, 
+    "name": "The Windsor Tea Room", 
+    "longitude": -122.409408569336
+  }
+]
