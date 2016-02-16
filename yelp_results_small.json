@@ -1,0 +1,42 @@
+[
+  {
+    "latitude": 37.7624810100683, 
+    "name": "Provender", 
+    "longitude": -122.396886236966
+  }, 
+  {
+    "latitude": 37.754467010498, 
+    "name": "Home", 
+    "longitude": -122.476989746094
+  }, 
+  {
+    "latitude": 37.7470855, 
+    "name": "CoffeeShop", 
+    "longitude": -122.4187899
+  }, 
+  {
+    "latitude": 37.756805, 
+    "name": "Andytown Coffee Roasters", 
+    "longitude": -122.502283
+  }, 
+  {
+    "latitude": 37.7622004598379, 
+    "name": "Golden Bear Trading Company", 
+    "longitude": -122.463017776608
+  }, 
+  {
+    "latitude": 37.7879217, 
+    "name": "b. Patisserie", 
+    "longitude": -122.4409499
+  }, 
+  {
+    "latitude": 37.7670169511878, 
+    "name": "Four Barrel Coffee", 
+    "longitude": -122.42184275
+  }, 
+  {
+    "latitude": 37.751149640212, 
+    "name": "Philz Coffee", 
+    "longitude": -122.43838046048
+  } 
+]
